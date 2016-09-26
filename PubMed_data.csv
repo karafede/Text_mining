@@ -1,0 +1,1560 @@
+"","LastName","ForeName","Initials","order","Countries1","co_index1","counts1","term1","Initials","order","Countries2","co_index2","counts2","term2","Initials","order","Countries3","co_index3","counts3","term3"
+"1","Barton","J K","JK",1,"United States",273,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2","Frangineas","G","G",2,"United States",273,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"3","Pummer","H","H",3,"United States",273,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"4","Black","J F","JF",4,"United States",273,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"5","Graves","John W","JW",1,"England",272,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"6","Tibor","Mary","M",2,"England",272,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"7","Murtagh","Blaithnead","B",3,"England",272,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"8","Klein","Lois","L",4,"England",272,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"9","Sheps","Sheldon G","SG",5,"England",272,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"10","Kumar","Surendra M","SM",1,"United States",271,5,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"11","Sulser","Tullio","T",1,"United States",270,4,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"12","Reich","Oliver","O",2,"United States",270,8,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"13","Wyler","Stephen","S",3,"United States",270,6,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"14","Ruszat","Robin","R",4,"United States",270,6,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"15","Casella","Roberto","R",5,"United States",270,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"16","Hofstetter","Alfons","A",6,"United States",270,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"17","Bachmann","Alexander","A",7,"United States",270,26,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"18","Sandhu","Jaspreet S","JS",1,"United States",269,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"19","Ng","Casey K","CK",2,"United States",269,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"20","Gonzalez","Ricardo R","RR",3,"United States",269,5,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"21","Kaplan","Steven A","SA",4,"United States",269,7,"GreenLight","SA",1,"United States",593,4,"Laser","SA",1,"United States",419,5,"Prostate"
+"22","Kaplan","Steven A","SA",4,"United States",269,7,"GreenLight","SA",1,"United States",593,4,"Laser","SA",1,"United States",166,5,"Prostate"
+"23","Te","Alexis E","AE",5,"United States",269,11,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"24","Barber","N J","NJ",1,"United States",268,11,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"25","Zhu","G","G",2,"United States",268,3,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"26","Donohue","J F","JF",3,"United States",268,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"27","Thompson","P M","PM",4,"United States",268,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"28","Walsh","K","K",5,"United States",268,6,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"29","Muir","G H","GH",6,"United States",268,13,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"30","Koivula","Brenda","B",1,"Canada",267,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"31","Minielly","Brenda","B",2,"Canada",267,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"32","Fu","Wei-Jun","WJ",1,"China",266,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"33","Hong","Bao-Fa","BF",2,"China",266,11,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"34","Wang","Xiao-Xiong","XX",3,"China",266,7,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"35","Yang","Yong","Y",4,"China",266,16,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"36","Cai","Wei","W",5,"China",266,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"37","Gao","Jiang-Ping","JP",6,"China",266,5,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"38","Chen","Yao-Fu","YF",7,"China",266,10,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"39","Zhang","Cui-E","CE",8,"China",266,9,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"40","Hindley","R G","RG",1,"United States",265,4,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"41","Barber","N J","NJ",2,"United States",265,11,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"42","Walsh","K","K",3,"United States",265,6,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"43","Petersen","A","A",4,"United States",265,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"44","Poulsen","J","J",5,"United States",265,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"45","Muir","G H","GH",6,"United States",265,13,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"46","Bouchier-Hayes","David M","DM",1,"United States",264,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"47","Anderson","Paul","P",2,"United States",264,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"48","Van Appledorn","Scott","S",3,"United States",264,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"49","Bugeja","Pat","P",4,"United States",264,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"50","Costello","Anthony J","AJ",5,"United States",264,2,"GreenLight",NA,NA,NA,NA,NA,NA,"AJ",5,NA,633,1,"Prostate"
+"51","Rajbabu","K","K",1,"England",263,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"52","Dudderidge","T","T",2,"England",263,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"53","Barber","N","N",3,"England",263,11,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"54","Walsh","K","K",4,"England",263,6,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"55","Muir","G","G",5,"England",263,13,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"56","Chandrasekera","Srinath","S",1,"United States",262,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"57","Muir","Gordon","G",2,"United States",262,13,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"58","Kuromatsu","Isao","I",1,"Japan",261,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"59","Imamura","Tetsuya","T",2,"Japan",261,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"60","Sugimura","Yoshiki","Y",3,"Japan",261,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"61","Te","Alexis E","AE",1,"United States",260,11,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"62","Bachmann","A","A",1,"Switzerland",259,26,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"63","Ruszat","R","R",2,"Switzerland",259,6,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"64","Bachmann","Alexander","A",1,"England",258,26,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"65","Ruszat","Robin","R",2,"England",258,6,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"66","Rajbabu","Krishnamoorthy","K",1,"England",257,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"67","Chandrasekara","Srinath K","SK",2,"England",257,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"68","Barber","Neil J","NJ",3,"England",257,11,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"69","Walsh","Kilian","K",4,"England",257,6,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"70","Muir","Gordon H","GH",5,"England",257,13,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"71","Ahmed","Hashim U","HU",1,"United Kingdom",256,3,"GreenLight",NA,NA,NA,NA,NA,NA,"HU",2,"England",932,10,"Prostate"
+"72","Ahmed","Hashim U","HU",1,"United Kingdom",256,3,"GreenLight",NA,NA,NA,NA,NA,NA,"HU",2,NA,299,10,"Prostate"
+"73","Ahmed","Hashim U","HU",1,"United Kingdom",256,3,"GreenLight",NA,NA,NA,NA,NA,NA,"HU",9,NA,225,10,"Prostate"
+"74","Thwaini","Ali","A",2,"United Kingdom",256,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"75","Shergill","Iqbal S","IS",3,"United Kingdom",256,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"76","Hammadeh","Mohammed Y","MY",4,"United Kingdom",256,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"77","Arya","Manit","M",5,"United Kingdom",256,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"78","Kaisary","Amir V","AV",6,"United Kingdom",256,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"79","Gómez Sancha","F","F",1,"England",255,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"80","Bachmann","A","A",2,"England",255,26,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"81","Choi","B B","BB",3,"England",255,17,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"82","Tabatabaei","S","S",4,"England",255,3,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"83","Muir","G H","GH",5,"England",255,13,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"84","Bachmann","Alexander","A",1,"Germany",254,26,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"85","Kuntz","Rainer","R",2,"Germany",254,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"86","Yang","Yong","Y",1,"China",253,16,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"87","Hong","Bao-fa","BF",2,"China",253,11,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"88","Fu","Wei-jun","WJ",3,"China",253,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"89","Xu","Yong","Y",4,"China",253,4,"GreenLight",NA,NA,NA,NA,NA,NA,"Y",9,"England",559,32,"Prostate"
+"90","Xu","Yong","Y",4,"China",253,4,"GreenLight",NA,NA,NA,NA,NA,NA,"Y",8,"England",195,32,"Prostate"
+"91","Chen","Yao-fu","YF",5,"China",253,10,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"92","Zhang","Cui-e","CE",6,"China",253,9,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"93","Shiller","Joy","J",1,"United States",252,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"94","Gonzalez","Ricardo","R",2,"United States",252,5,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"95","Juan Escudero","Joaquín Ulises","JU",1,"Spain",251,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"96","López Alcina","Emilio","E",2,"Spain",251,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"97","Ordoño Domínguez","Felipe","F",3,"Spain",251,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"98","Fabuel Deltoro","Milagros","M",4,"Spain",251,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"99","Serrano de la Cruz Torrijos","Francisco","F",5,"Spain",251,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"100","Montoliu García","Ana","A",6,"Spain",251,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"101","Marques Vidal","Emilio","E",7,"Spain",251,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"102","Navalón Verdejo","Pedro","P",8,"Spain",251,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"103","Alivizatos","Gerasimos","G",1,"United States",250,3,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"104","Skolarikos","Andreas","A",2,"United States",250,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"105","Reich","O","O",1,"Germany",249,8,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"106","Seitz","M","M",2,"Germany",249,7,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"107","Pfitzenmaier","Jesco","J",1,"England",248,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"108","Gilfrich","Christian","C",2,"England",248,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"109","Pritsch","Maria","M",3,"England",248,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"110","Herrmann","Daniela","D",4,"England",248,3,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"111","Buse","Stephan","S",5,"England",248,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"112","Haferkamp","Axel","A",6,"England",248,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"113","Djakovic","Nenad","N",7,"England",248,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"114","Pahernik","Sascha","S",8,"England",248,5,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"115","Hohenfellner","Markus","M",9,"England",248,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"116","Honeck","Patrick","P",1,"United States",247,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"117","Wendt-Nordahl","Gunnar","G",2,"United States",247,3,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"118","Bolenz","Christian","C",3,"United States",247,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"119","Peters","Tina","T",4,"United States",247,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"120","Weiss","Christel","C",5,"United States",247,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"121","Alken","Peter","P",6,"United States",247,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"122","Michel","Maurice-Stephan","MS",7,"United States",247,3,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"123","Häcker","Axel","A",8,"United States",247,3,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"124","Sountoulides","Petros","P",1,"Korea (South)",246,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"125","Tsakiris","Peter","P",2,"Korea (South)",246,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"126","Madersbacher","Stephan","S",1,"Switzerland",245,3,"GreenLight",NA,NA,NA,NA,NA,NA,"S",3,NA,427,1,"Prostate"
+"127","Ruszat","Robin","R",1,"Switzerland",244,6,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"128","Seitz","Michael","M",2,"Switzerland",244,7,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"129","Wyler","Stephen F","SF",3,"Switzerland",244,6,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"130","Abe","Constanze","C",4,"Switzerland",244,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"131","Rieken","Malte","M",5,"Switzerland",244,10,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"132","Reich","Oliver","O",6,"Switzerland",244,8,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"133","Gasser","Thomas C","TC",7,"Switzerland",244,6,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"134","Bachmann","Alexander","A",8,"Switzerland",244,26,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"135","Eret","Viktor","V",1,"United States",243,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"136","Hora","Milan","M",2,"United States",243,1,"GreenLight",NA,NA,NA,NA,NA,NA,"M",6,"Greece",150,1,"Prostate"
+"137","Sykora","Roman","R",3,"United States",243,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"138","Hes","Ondrej","O",4,"United States",243,1,"GreenLight",NA,NA,NA,NA,NA,NA,"O",7,"Greece",150,1,"Prostate"
+"139","Urge","Tomas","T",5,"United States",243,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"140","Klecka","Jiri","J",6,"United States",243,1,"GreenLight",NA,NA,NA,NA,NA,NA,"J",8,"Greece",150,1,"Prostate"
+"141","Matejovic","Martin","M",7,"United States",243,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"142","Seifert","H-H","HH",1,"Germany",242,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"143","Hermanns","T","T",2,"Germany",242,3,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"144","Sulser","T","T",3,"Germany",242,4,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"145","Ruszat","Robin","R",1,"England",241,6,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"146","Wyler","Stephen F","SF",2,"England",241,6,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"147","Seitz","Michael","M",3,"England",241,7,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"148","Lehmann","Kurt","K",4,"England",241,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"149","Abe","Constanze","C",5,"England",241,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"150","Bonkat","Gernot","G",6,"England",241,5,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"151","Reich","Oliver","O",7,"England",241,8,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"152","Gasser","Thomas C","TC",8,"England",241,6,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"153","Bachmann","Alexander","A",9,"England",241,26,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"154","Lee","Richard","R",1,"United States",240,19,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"155","Saini","Rajiv","R",2,"United States",240,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"156","Zoltan","Edward","E",3,"United States",240,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"157","Te","Alexis E","AE",4,"United States",240,11,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"158","de la Rosette","Jean J M C H","JJ",1,"United States",239,4,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"159","Gravas","Stavros","S",2,"United States",239,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"160","Fitzpatrick","John M","JM",3,"United States",239,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"161","Bruyère","Franck","F",1,"France",238,15,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"162","Kavoussi","Parviz K","PK",1,"United States",237,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"163","Hermans","Michael R","MR",2,"United States",237,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"164","Petschl","S","S",1,"Germany",236,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"165","Finter","F","F",2,"Germany",236,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"166","Gust","K","K",3,"Germany",236,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"167","Volkmer","B G","BG",4,"Germany",236,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"168","Spaliviero","Massimiliano","M",1,"United States",235,8,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"169","Araki","Motoo","M",2,"United States",235,3,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"170","Wong","Carson","C",3,"United States",235,9,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"171","Kang","Hyun Wook","HW",1,"United States",234,8,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"172","Jebens","David","D",2,"United States",234,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"173","Malek","Reza S","RS",3,"United States",234,3,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"174","Mitchell","Gerald","G",4,"United States",234,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"175","Koullick","Ed","E",5,"United States",234,4,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"176","Kaplon","Daniel M","DM",1,"United States",233,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"177","Iannotti","Harry","H",2,"United States",233,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"178","Van Cleynenbreugel","Ben","B",1,"United States",232,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"179","Srirangam","Shalom J","SJ",2,"United States",232,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"180","Van Poppel","Hendrik","H",3,"United States",232,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"181","Kamalov","A A","AA",1,"Russia (Federation)",231,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"182","Osmolovskii","B E","BE",2,"Russia (Federation)",231,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"183","Aho","Tevita F","TF",1,"Spain",230,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"184","Gilling","Peter J","PJ",2,"Spain",230,3,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"185","López Alcina","E","E",1,"Spain",229,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"186","Juan Escudero","J U","JU",2,"Spain",229,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"187","Fabuel Deltoro","M","M",3,"Spain",229,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"188","Serrano de la Cruz Torrijos","F","F",4,"Spain",229,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"189","Montoliu García","A","A",5,"Spain",229,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"190","Sánchez Ballester","F","F",6,"Spain",229,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"191","Ramada Benlloch","F","F",7,"Spain",229,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"192","Marques Vidal","E","E",8,"Spain",229,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"193","Richter","M","M",1,"Germany",228,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"194","Schwarz","J","J",2,"Germany",228,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"195","De Geeter","P","P",3,"Germany",228,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"196","Albers","P","P",4,"Germany",228,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"197","Ruszat","Robin","R",1,"England",227,6,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"198","Seitz","Michael","M",2,"England",227,7,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"199","Wyler","Stephen F","SF",3,"England",227,6,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"200","Müller","Georg","G",4,"England",227,7,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"201","Rieken","Malte","M",5,"England",227,10,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"202","Bonkat","Gernot","G",6,"England",227,5,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"203","Gasser","Thomas C","TC",7,"England",227,6,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"204","Reich","Oliver","O",8,"England",227,8,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"205","Bachmann","Alexander","A",9,"England",227,26,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"206","Spaliviero","Massimiliano","M",1,"United States",226,8,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"207","Araki","Motoo","M",2,"United States",226,3,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"208","Culkin","Daniel J","DJ",3,"United States",226,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"209","Wong","Carson","C",4,"United States",226,9,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"210","Malek","Reza S","RS",1,"United States",225,3,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"211","Kang","Hyun Wook","HW",2,"United States",225,8,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"212","Coad","James E","JE",3,"United States",225,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"213","Koullick","Ed","E",4,"United States",225,4,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"214","Kural","Ali Riza","AR",1,"United States",224,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"215","Atug","Fatih","F",2,"United States",224,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"216","Akpinar","Haluk","H",3,"United States",224,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"217","Tufek","Ilter","I",4,"United States",224,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"218","Kauffman","Eric C","EC",1,"United States",223,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"219","Kang","Hyun Wook","HW",2,"United States",223,8,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"220","Choi","Benjamin B","BB",3,"United States",223,17,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"221","Capitán Manjón","Carlos","C",1,"Spain",222,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"222","de la Morena Gallego","José M","JM",2,"Spain",222,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"223","de la Peña Zarzuelo","Enrique","E",3,"Spain",222,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"224","Gómez dos Santos","Victoria","V",4,"Spain",222,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"225","Llorente Abarca","Carlos","C",5,"Spain",222,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"226","Bepple","Jennifer L","JL",1,"United States",221,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"227","Barone","Bethany B","BB",2,"United States",221,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"228","Eure","Gregg","G",3,"United States",221,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"229","Bouchier-Hayes","David M","DM",1,"England",220,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"230","Van Appledorn","Scott","S",2,"England",220,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"231","Bugeja","Pat","P",3,"England",220,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"232","Crowe","Helen","H",4,"England",220,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"233","Challacombe","Ben","B",5,"England",220,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"234","Costello","Anthony J","AJ",6,"England",220,2,"GreenLight",NA,NA,NA,NA,NA,NA,"AJ",5,NA,633,1,"Prostate"
+"235","Wosnitzer","Matthew S","MS",1,"United States",219,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"236","Rutman","Matthew P","MP",2,"United States",219,5,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"237","Heinrich","Elmar","E",1,"United States",218,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"238","Wendt-Nordahl","Gunnar","G",2,"United States",218,3,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"239","Honeck","Patrick","P",3,"United States",218,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"240","Alken","Peter","P",4,"United States",218,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"241","Knoll","Thomas","T",5,"United States",218,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"242","Michel","Maurice Stephan","MS",6,"United States",218,3,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"243","Häcker","Axel","A",7,"United States",218,3,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"244","Wezel","Felix","F",1,"Germany",217,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"245","Wendt-Nordahl","Gunnar","G",2,"Germany",217,3,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"246","Huck","Nina","N",3,"Germany",217,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"247","Bach","Thorsten","T",4,"Germany",217,3,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"248","Weiss","Christel","C",5,"Germany",217,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"249","Michel","Maurice Stephan","MS",6,"Germany",217,3,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"250","Häcker","Axel","A",7,"Germany",217,3,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"251","Goh","Alvin C","AC",1,"United States",216,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"252","Gonzalez","Ricardo R","RR",2,"United States",216,5,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"253","Denham","Charles R","CR",1,"United States",215,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"254","Benejam Gual","J","J",1,"Spain",214,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"255","Díez-Caballero Alonso","F","F",2,"Spain",214,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"256","García-Miralles Grávalos","R","R",3,"Spain",214,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"257","Servera Ruiz de Velasco","A","A",4,"Spain",214,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"258","Bruyère","Franck","F",1,"Switzerland",213,15,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"259","Puichaud","Alexis","A",2,"Switzerland",213,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"260","Pereira","Helder","H",3,"Switzerland",213,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"261","Faivre d'Arcier","Benjamin","B",4,"Switzerland",213,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"262","Rouanet","Antoine","A",5,"Switzerland",213,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"263","Floc'h","Aurélie Paule","AP",6,"Switzerland",213,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"264","Bodin","Thomas","T",7,"Switzerland",213,4,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"265","Brichart","Nicolas","N",8,"Switzerland",213,6,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"266","de la Rosette","Jean","J",1,"United States",212,4,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"267","Gravas","Stavros","S",2,"United States",212,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"268","Al-Ansari","Abdulla","A",1,"Switzerland",211,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"269","Younes","Nagy","N",2,"Switzerland",211,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"270","Sampige","Venkataramana Pai","VP",3,"Switzerland",211,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"271","Al-Rumaihi","Khalid","K",4,"Switzerland",211,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"272","Ghafouri","Ardalan","A",5,"Switzerland",211,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"273","Gul","Tawiz","T",6,"Switzerland",211,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"274","Shokeir","Ahmed A","AA",7,"Switzerland",211,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"275","Groves-Kirkby","Nick","N",1,"England",210,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"276","Chiang","Po Hui","PH",1,"United States",209,3,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"277","Chen","Chien Hsu","CH",2,"United States",209,10,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"278","Kang","Chih Hsiung","CH",3,"United States",209,8,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"279","Chuang","Yao Chi","YC",4,"United States",209,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"280","Moreno Sierra","Jesus","J",1,"Switzerland",208,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"281","Galante-Romo","Isabel","I",2,"Switzerland",208,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"282","Ortiz-Oshiro","Elena","E",3,"Switzerland",208,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"283","Castillon-Vela","Ignacio T","IT",4,"Switzerland",208,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"284","Fernandez-Perez","Cristina","C",5,"Switzerland",208,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"285","Silmi-Moyano","Angel","A",6,"Switzerland",208,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"286","Pruijm","Menno T","MT",1,"England",207,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"287","Wuerzner","Grégoire","G",2,"England",207,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"288","Glatz","Nicolas","N",3,"England",207,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"289","Alwan","Heba","H",4,"England",207,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"290","Ponte","Belen","B",5,"England",207,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"291","Ackermann","Daniel","D",6,"England",207,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"292","Burnier","Michel","M",7,"England",207,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"293","Bochud","Murielle","M",8,"England",207,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"294","Henderson","James","J",1,"United States",206,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"295","Ghani","Khurshid R","KR",2,"United States",206,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"296","Cook","Joanne","J",3,"United States",206,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"297","Fahey","Michael","M",4,"United States",206,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"298","Schalken","Jack","J",5,"United States",206,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"299","Thilagarajah","Ranjan","R",6,"United States",206,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"300","Spaliviero","Massimiliano","M",1,"United States",205,8,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"301","Strom","Kurt H","KH",2,"United States",205,5,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"302","Gu","Xiao","X",3,"United States",205,6,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"303","Araki","Motoo","M",4,"United States",205,3,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"304","Culkin","Daniel J","DJ",5,"United States",205,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"305","Wong","Carson","C",6,"United States",205,9,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"306","Son","Hwancheol","H",1,"United States",204,4,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"307","Ro","Yun Kwan","YK",2,"United States",204,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"308","Min","Sun Ho","SH",3,"United States",204,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"309","Choo","Min Soo","MS",4,"United States",204,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"310","Kim","Jung Kwon","JK",5,"United States",204,26,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"311","Lee","Chang Ju","CJ",6,"United States",204,19,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"312","Reich","Oliver","O",1,"United States",203,8,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"313","Liberale","Fabiola","F",1,"England",202,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"314","Muir","Gordon Hugh","GH",2,"England",202,13,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"315","Walsh","Killian","K",3,"England",202,6,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"316","Krishnamoorthy","Rajbabu","R",4,"England",202,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"317","Malek","Reza S","RS",1,"United States",201,3,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"318","Kang","Hyun Wook","HW",2,"United States",201,8,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"319","Peng","Yihlih Steven","YS",3,"United States",201,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"320","Stinson","Douglas","D",4,"United States",201,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"321","Beck","Michael T","MT",5,"United States",201,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"322","Koullick","Ed","E",6,"United States",201,4,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"323","Strom","Kurt H","KH",1,"United States",200,5,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"324","Gu","Xiao","X",2,"United States",200,6,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"325","Spaliviero","Massimiliano","M",3,"United States",200,8,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"326","Wong","Carson","C",4,"United States",200,9,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"327","Antoniewicz","Artur A","AA",1,"England",199,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"328","Alivizatos","Gerasimos","G",2,"England",199,3,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"329","Zapala",NA,NA,3,"England",199,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"330","de Reijke","Theo M","TM",4,"England",199,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"331","Sohn","Jun Ho","JH",1,"Korea (South)",198,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"332","Choi","Yong Sun","YS",2,"Korea (South)",198,17,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"333","Kim","Su Jin","SJ",3,"Korea (South)",198,26,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"334","Cho","Hyuk Jin","HJ",4,"Korea (South)",198,13,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"335","Hong","Sung Hoo","SH",5,"Korea (South)",198,11,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"336","Lee","Ji Youl","JY",6,"Korea (South)",198,19,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"337","Hwang","Tae-Kon","TK",7,"Korea (South)",198,6,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"338","Kim","Sae Woong","SW",8,"Korea (South)",198,26,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"339","Hempel","A","A",1,"United States",197,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"340","Borchert","N","N",2,"United States",197,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"341","Walsh","H","H",3,"United States",197,6,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"342","Roy Choudhury","K","K",4,"United States",197,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"343","Kerry","J P","JP",5,"United States",197,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"344","Papkovsky","D B","DB",6,"United States",197,3,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"345","Tasçi","Ali Ihsan","AI",1,"United States",196,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"346","Ilbey","Yusuf Özlem","YÖ",2,"United States",196,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"347","Luleci","Hüseyin","H",3,"United States",196,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"348","Cicekler","Olcay","O",4,"United States",196,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"349","Sahin","Selcuk","S",5,"United States",196,1,"GreenLight",NA,NA,NA,NA,NA,NA,"S",2,"China (Republic : 1949- )",991,1,"Prostate"
+"350","Cevik","Cem","C",6,"United States",196,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"351","Tugcu","Volkan","V",7,"United States",196,1,"GreenLight",NA,NA,NA,NA,NA,NA,"V",1,"China (Republic : 1949- )",991,1,"Prostate"
+"352","Kang","Se-Hee","SH",1,"Korea (South)",195,8,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"353","Choi","Yong Sun","YS",2,"Korea (South)",195,17,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"354","Kim","Su Jin","SJ",3,"Korea (South)",195,26,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"355","Cho","Hyuk Jin","HJ",4,"Korea (South)",195,13,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"356","Hong","Sung-Hoo","SH",5,"Korea (South)",195,11,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"357","Lee","Ji Youl","JY",6,"Korea (South)",195,19,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"358","Hwang","Tae-Kon","TK",7,"Korea (South)",195,6,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"359","Kim","Sae Woong","SW",8,"Korea (South)",195,26,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"360","Gu","Xiao","X",1,"United States",194,6,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"361","Strom","Kurt","K",2,"United States",194,5,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"362","Spaliviero","Massimiliano","M",3,"United States",194,8,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"363","Wong","Carson","C",4,"United States",194,9,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"364","Brunken","Claus","C",1,"United States",193,4,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"365","Seitz","Christian","C",2,"United States",193,7,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"366","Tauber","Stephan","S",3,"United States",193,3,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"367","Schmidt","Rainer","R",4,"United States",193,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"368","Fournier","G","G",1,"France",192,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"369","Perrouin-Verbe","M-A","MA",2,"France",192,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"370","Papin","G","G",3,"France",192,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"371","Deruelle","C","C",4,"France",192,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"372","Bruyère","F","F",1,"France",191,15,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"373","Capitán","Carlos","C",1,"Switzerland",190,6,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"374","Blázquez","Cristina","C",2,"Switzerland",190,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"375","Martin","M Dolores","MD",3,"Switzerland",190,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"376","Hernández","Virginia","V",4,"Switzerland",190,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"377","de la Peña","Enrique","E",5,"Switzerland",190,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"378","Llorente","Carlos","C",6,"Switzerland",190,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"379","Osterberg","E Charles","EC",1,"United States",189,4,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"380","Kauffman","Eric C","EC",2,"United States",189,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"381","Kang","Hyun Wook","HW",3,"United States",189,8,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"382","Koullick","Ed","E",4,"United States",189,4,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"383","Choi","Benjamin B","BB",5,"United States",189,17,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"384","Bruyère","Franck","F",1,"United States",188,15,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"385","Huglo","Damien","D",2,"United States",188,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"386","Challacombe","Benjamin","B",3,"United States",188,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"387","Haillot","Olivier","O",4,"United States",188,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"388","Valat","Chantal","C",5,"United States",188,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"389","Brichart","Nicolas","N",6,"United States",188,6,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"390","Liu","Chun-lai","CL",1,"China",187,10,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"391","Xue","Dong-wei","DW",2,"China",187,10,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"392","Liu","Yi-li","YL",3,"China",187,10,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"393","Wang","Ping","P",4,"China",187,7,"GreenLight",NA,NA,NA,NA,NA,NA,"P",5,NA,239,106,"Prostate"
+"394","Wang","Ping","P",4,"China",187,7,"GreenLight",NA,NA,NA,NA,NA,NA,"P",2,NA,2,106,"Prostate"
+"395","Weidner","W","W",1,"Germany",186,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"396","Rusz","A","A",2,"Germany",186,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"397","Pilatz","A","A",3,"Germany",186,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"398","Hauptmann","A","A",4,"Germany",186,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"399","Schuppe","H-C","HC",5,"Germany",186,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"400","Zorn","Kevin C","KC",1,"Canada",185,12,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"401","Liberman","Daniel","D",2,"Canada",185,5,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"402","Chughtai","Bilal","B",1,"England",184,7,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"403","Te","Alexis","A",2,"England",184,11,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"404","Gu","Xiao","X",1,"United States",183,6,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"405","Vricella","Gino J","GJ",2,"United States",183,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"406","Spaliviero","Massimiliano","M",3,"United States",183,8,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"407","Wong","Carson","C",4,"United States",183,9,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"408","Liatsikos","Evangelos","E",1,"United States",182,3,"GreenLight",NA,NA,NA,NA,NA,NA,"E",5,NA,565,1,"Prostate"
+"409","Kyriazis","Iason","I",2,"United States",182,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"410","Kallidonis","Panagiotis","P",3,"United States",182,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"411","Sakellaropoulos","George","G",4,"United States",182,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"412","Maniadakis","Nikos","N",5,"United States",182,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"413","de la Torre","Germán","G",1,"United States",181,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"414","Barusso","Gabriel","G",2,"United States",181,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"415","Chernobilsky","Víctor","V",3,"United States",181,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"416","Borghi","Marcelo","M",4,"United States",181,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"417","Montes de Oca","Luis","L",5,"United States",181,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"418","Becher","Edgardo","E",6,"United States",181,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"419","Gu","Xiao","X",1,"England",180,6,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"420","Strom","Kurt","K",2,"England",180,5,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"421","Spaliviero","Massimiliano","M",3,"England",180,8,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"422","Wong","Carson","C",4,"England",180,9,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"423","Bachmann","Alexander","A",1,"Switzerland",179,26,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"424","Muir","Gordon H","GH",2,"Switzerland",179,13,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"425","Collins","Edward J","EJ",3,"Switzerland",179,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"426","Choi","Benjamin B","BB",4,"Switzerland",179,17,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"427","Tabatabaei","Shahin","S",5,"Switzerland",179,3,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"428","Reich","Oliver M","OM",6,"Switzerland",179,8,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"429","Gómez-Sancha","Fernando","F",7,"Switzerland",179,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"430","Woo","Henry H","HH",8,"Switzerland",179,7,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"431","Chung","Amanda Sj","AS",1,"England",178,3,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"432","Woo","Henry H","HH",2,"England",178,7,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"433","Choi","Sae Woong","SW",1,"Korea (South)",177,17,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"434","Choi","Yong Sun","YS",2,"Korea (South)",177,17,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"435","Bae","Woong Jin","WJ",3,"Korea (South)",177,8,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"436","Kim","Su Jin","SJ",4,"Korea (South)",177,26,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"437","Cho","Hyuk Jin","HJ",5,"Korea (South)",177,13,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"438","Hong","Sung Hoo","SH",6,"Korea (South)",177,11,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"439","Lee","Ji Youl","JY",7,"Korea (South)",177,19,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"440","Hwang","Tae Kon","TK",8,"Korea (South)",177,6,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"441","Kim","Sae Woong","SW",9,"Korea (South)",177,26,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"442","Pereira-Correia","João Antonio","JA",1,"England",176,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"443","de Moraes Sousa","Karlo Danilson","KD",2,"England",176,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"444","Santos","João Bosco Pinheiro","JB",3,"England",176,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"445","de Morais Perpétuo","Daniel","D",4,"England",176,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"446","Lopes-da-Silva","Luiz Felipe","LF",5,"England",176,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"447","Krambeck","Renato Lages","RL",6,"England",176,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"448","Muller","Valter José Fernandes","VJ",7,"England",176,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"449","Vaz","Fernando Pires","FP",8,"England",176,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"450","Ferrazzi","Keith","K",1,"United States",175,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"451","Lukacs","Bertrand","B",1,"Switzerland",174,3,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"452","Loeffler","Joyce","J",2,"Switzerland",174,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"453","Bruyère","Franck","F",3,"Switzerland",174,15,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"454","Blanchet","Pascal","P",4,"Switzerland",174,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"455","Gelet","Albert","A",5,"Switzerland",174,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"456","Coloby","Patrick","P",6,"Switzerland",174,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"457","De la Taille","Alexandre","A",7,"Switzerland",174,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"458","Lemaire","Philippe","P",8,"Switzerland",174,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"459","Baron","Jean-Christophe","JC",9,"Switzerland",174,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"460","Cornu","Jean-Nicolas","JN",10,"Switzerland",174,8,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"461","Aout","Mounir","M",11,"Switzerland",174,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"462","Rousseau","Helene","H",12,"Switzerland",174,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"463","Vicaut","Eric","E",13,"Switzerland",174,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"464","Ko","Woo Jin","WJ",1,"United States",173,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"465","Choi","Benjamin B","BB",2,"United States",173,17,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"466","Kang","Hyun Wook","HW",3,"United States",173,8,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"467","Rajabhandharaks","Danop","D",4,"United States",173,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"468","Rutman","Matthew","M",5,"United States",173,5,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"469","Osterberg","E Charles","EC",6,"United States",173,4,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"470","Glybochko","P V","PV",1,"Russia (Federation)",172,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"471","Anafin","T G","TG",2,"Russia (Federation)",172,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"472","Shalekenov","S B","SB",3,"Russia (Federation)",172,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"473","Gu","Xiao","X",1,"England",171,6,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"474","Strom","Kurt","K",2,"England",171,5,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"475","Spaliviero","Massimiliano","M",3,"England",171,8,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"476","Wong","Carson","C",4,"England",171,9,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"477","Woo","Henry H","HH",1,"England",170,7,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"478","Symons","James L","JL",2,"England",170,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"479","Park","Seung Chol","SC",1,"United States",169,5,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"480","Lee","Sang Kyi","SK",2,"United States",169,19,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"481","Han","Suk Hee","SH",3,"United States",169,3,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"482","Chung","Yun Jo","YJ",4,"United States",169,3,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"483","Park","Jong Kwan","JK",5,"United States",169,5,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"484","Elmansy","Hazem","H",1,"United States",168,4,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"485","Baazeem","Abdulaziz","A",2,"United States",168,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"486","Kotb","Ahmed","A",3,"United States",168,1,"GreenLight",NA,NA,NA,NA,NA,NA,"A",2,"Netherlands",819,1,"Prostate"
+"487","Badawy","Hesham","H",4,"United States",168,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"488","Riad","Essam","E",5,"United States",168,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"489","Emran","Ashraf","A",6,"United States",168,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"490","Elhilali","Mostafa","M",7,"United States",168,10,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"491","Mosli","Hisham A","HA",1,"Canada",167,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"492","Abdel-Meguid","Taha A","TA",2,"Canada",167,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"493","Abdulwahhab","Mohammad H","MH",3,"Canada",167,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"494","Al-Sayyad","Ahmad","A",4,"Canada",167,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"495","Farsi","Hasan M","HM",5,"Canada",167,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"496","Tayib","Abdulmalik","A",6,"Canada",167,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"497","Kaplan","Steven A","SA",1,"United States",166,7,"GreenLight","SA",1,"United States",593,4,"Laser","SA",1,"United States",419,5,"Prostate"
+"498","Kaplan","Steven A","SA",1,"United States",166,7,"GreenLight","SA",1,"United States",593,4,"Laser","SA",1,"United States",166,5,"Prostate"
+"499","Miralles","J","J",1,"Spain",165,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"500","Palmero","J L","JL",2,"Spain",165,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"501","Ramírez-Backhaus","M","M",3,"Spain",165,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"502","Osca","J M","JM",4,"Spain",165,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"503","Benedicto","A","A",5,"Spain",165,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"504","Zang","Ya-Chen","YC",1,"China",164,7,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"505","Shan","Yu-Xi","YX",2,"China",164,8,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"506","Xue","Bo-Xin","BX",3,"China",164,10,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"507","Yang","Dong-Rong","DR",4,"China",164,16,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"508","Gao","Jie","J",5,"China",164,5,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"509","Sun","Chuan-Yang","CY",6,"China",164,7,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"510","Cui","Yong","Y",7,"China",164,3,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"511","Zang","Yachen","Y",1,"Switzerland",163,7,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"512","Xue","Boxin","B",2,"Switzerland",163,10,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"513","Zhang","Yuanyuan","Y",3,"Switzerland",163,9,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"514","Yang","Dongrong","D",4,"Switzerland",163,16,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"515","Gao","Jie","J",5,"Switzerland",163,5,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"516","Sun","Chuanyang","C",6,"Switzerland",163,7,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"517","Cui","Yong","Y",7,"Switzerland",163,3,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"518","Tao","Wei","W",8,"Switzerland",163,3,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"519","Chen","Dong","D",9,"Switzerland",163,10,"GreenLight",NA,NA,NA,NA,NA,NA,"D",6,NA,228,61,"Prostate"
+"520","Shan","Yuxi","Y",10,"Switzerland",163,8,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"521","Kumar","Anup","A",1,NA,162,5,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"522","Vasudeva","Pawan","P",2,NA,162,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"523","Kumar","Niraj","N",3,NA,162,5,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"524","Nanda","Biswajit","B",4,NA,162,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"525","Mohanty","Nayan K","NK",5,NA,162,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"526","Cho","Sung Yong","SY",1,"United States",161,13,"GreenLight",NA,NA,NA,NA,NA,NA,"SY",1,"Korea (South)",607,5,"Prostate"
+"527","Park","Sohyun","S",2,"United States",161,5,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"528","Jeong","Min Young","MY",3,"United States",161,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"529","Ro","Yun Kwan","YK",4,"United States",161,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"530","Son","Hwancheol","H",5,"United States",161,4,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"531","Wee","Jang Ho","JH",1,"Korea (South)",160,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"532","Choi","Yong Sun","YS",2,"Korea (South)",160,17,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"533","Bae","Woong Jin","WJ",3,"Korea (South)",160,8,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"534","Kim","Su Jin","SJ",4,"Korea (South)",160,26,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"535","Cho","Hyuk Jin","HJ",5,"Korea (South)",160,13,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"536","Hong","Sung-Hoo","SH",6,"Korea (South)",160,11,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"537","Lee","Ji Youl","JY",7,"Korea (South)",160,19,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"538","Kim","Sae Woong","SW",8,"Korea (South)",160,26,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"539","Heussen","Florian M","FM",1,"United States",159,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"540","Tan","Colin S","CS",2,"United States",159,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"541","Sadda","SriniVas R","SR",3,"United States",159,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"542","Gómez-Sancha","F","F",1,"Spain",158,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"543","Elshal","Ahmed M","AM",1,"United States",157,5,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"544","Elmansy","Hazem M","HM",2,"United States",157,4,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"545","Elhilali","Mostafa M","MM",3,"United States",157,10,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"546","Hueber","Pierre-Alain","PA",1,"Canada",156,9,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"547","Ben-Zvi","Tal","T",2,"Canada",156,4,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"548","Liberman","Daniel","D",3,"Canada",156,5,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"549","Bhojani","Naeem","N",4,"Canada",156,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"550","Gautam","Gagan","G",5,"Canada",156,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"551","Deklaj","Tom","T",6,"Canada",156,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"552","Katz","Mark","M",7,"Canada",156,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"553","Zorn","Kevin C","KC",8,"Canada",156,12,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"554","Tao","Wei","W",1,"England",155,3,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"555","Xue","BoXin","B",2,"England",155,10,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"556","Zang","Yachen","Y",3,"England",155,7,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"557","Sun","ChuanYang","C",4,"England",155,7,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"558","Yang","Dongrong","D",5,"England",155,16,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"559","Zhang","Yuanyuan","Y",6,"England",155,9,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"560","Shan","YuXi","Y",7,"England",155,8,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"561","Jasionek","G","G",1,"England",154,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"562","Ogurtsov","V","V",2,"England",154,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"563","Papkovsky","D","D",3,"England",154,3,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"564","Elshal","Ahmed M","AM",1,"United States",153,5,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"565","Elmansy","Hazem M","HM",2,"United States",153,4,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"566","Elkoushy","Mohamed A","MA",3,"United States",153,7,"GreenLight",NA,NA,NA,NA,NA,NA,"MA",3,"Netherlands",820,1,"Prostate"
+"567","Elhilali","Mostafa M","MM",4,"United States",153,10,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"568","Kozak","Gregory N","GN",1,"United States",152,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"569","Field","Nicholas C","NC",2,"United States",152,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"570","Chen","Chien Hsu","CH",1,"England",151,10,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"571","Lin","Shung Eing","SE",2,"England",151,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"572","Chiang","Po Hui","PH",3,"England",151,3,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"573","Tam","H M","HM",1,"China",150,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"574","Mak","S K","SK",2,"China",150,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"575","Law","M C","MC",3,"China",150,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"576","Chu","Ringo W H","RW",4,"China",150,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"577","Yip","Sidney K H","SK",5,"China",150,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"578","Rieken","Malte","M",1,"United States",149,10,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"579","Bonkat","Gernot","G",2,"United States",149,5,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"580","Müller","Georg","G",3,"United States",149,7,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"581","Wyler","Stephen","S",4,"United States",149,6,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"582","Mundorff","Nicole Ebinger","NE",5,"United States",149,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"583","Püschel","Heike","H",6,"United States",149,3,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"584","Gasser","Thomas","T",7,"United States",149,6,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"585","Bachmann","Alexander","A",8,"United States",149,26,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"586","Chen","Dong","D",1,"England",148,10,"GreenLight",NA,NA,NA,NA,NA,NA,"D",6,NA,228,61,"Prostate"
+"587","Xue","Boxin","B",2,"England",148,10,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"588","Shan","Yuxi","Y",3,"England",148,8,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"589","Yang","Dongrong","D",4,"England",148,16,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"590","Sun","Chuanyang","C",5,"England",148,7,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"591","Gao","Jie","J",6,"England",148,5,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"592","Wille","Sebastian","S",1,"England",147,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"593","Al Mahmid","Mustafa","M",2,"England",147,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"594","Schumacher","Pauline","P",3,"England",147,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"595","Poyi-Kamdem","Michele","M",4,"England",147,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"596","Tok","Ali","A",5,"England",147,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"597","Muthen","Noemi","N",6,"England",147,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"598","Engelmann","Udo H","UH",7,"England",147,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"599","Zhu","Jin","J",1,"United States",146,3,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"600","Xue","Boxin","B",2,"United States",146,10,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"601","Shan","Yuxi","Y",3,"United States",146,8,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"602","Yang","Dongrong","D",4,"United States",146,16,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"603","Zang","Yachen","Y",5,"United States",146,7,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"604","Terrasa","Jean-Baptiste","JB",1,"United States",145,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"605","Cornu","Jean-Nicolas","JN",2,"United States",145,8,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"606","Haab","François","F",3,"United States",145,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"607","Cussenot","Olivier","O",4,"United States",145,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"608","Lukacs","Bertrand","B",5,"United States",145,3,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"609","Misraï","V","V",1,"France",144,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"610","Rouprêt","M","M",2,"France",144,4,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"611","Guillotreau","J","J",3,"France",144,3,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"612","Bordier","B","B",4,"France",144,3,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"613","Bruyère","F","F",5,"France",144,15,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"614","Bae","Woong Jin","WJ",1,"Korea (South)",143,8,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"615","Ahn","Sun Gook","SG",2,"Korea (South)",143,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"616","Bang","Jun Ho","JH",3,"Korea (South)",143,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"617","Bae","Jang Ho","JH",4,"Korea (South)",143,8,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"618","Choi","Yong Sun","YS",5,"Korea (South)",143,17,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"619","Kim","Su Jin","SJ",6,"Korea (South)",143,26,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"620","Cho","Hyuk Jin","HJ",7,"Korea (South)",143,13,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"621","Hong","Sung Hoo","SH",8,"Korea (South)",143,11,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"622","Lee","Ji Youl","JY",9,"Korea (South)",143,19,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"623","Hwang","Tae-Kon","TK",10,"Korea (South)",143,6,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"624","Kim","Sae Woong","SW",11,"Korea (South)",143,26,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"625","Kim","Myung Soo","MS",1,"Korea (South)",142,26,"GreenLight","MS",4,NA,199,42,"Laser",NA,NA,NA,NA,NA,NA
+"626","Kim","Myung Soo","MS",1,"Korea (South)",142,26,"GreenLight","MS",5,NA,55,42,"Laser",NA,NA,NA,NA,NA,NA
+"627","Park","Kyung Kgi","KK",2,"Korea (South)",142,5,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"628","Chung","Byung Ha","BH",3,"Korea (South)",142,3,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"629","Lee","Seung Hwan","SH",4,"Korea (South)",142,19,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"630","Ben-Zvi","Tal","T",1,"United States",141,4,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"631","Hueber","Pierre-Alain","PA",2,"United States",141,9,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"632","Liberman","Daniel","D",3,"United States",141,5,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"633","Valdivieso","Roger","R",4,"United States",141,4,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"634","Zorn","Kevin C","KC",5,"United States",141,12,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"635","Rieken","M","M",1,"Germany",140,10,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"636","Bachmann","A","A",2,"Germany",140,26,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"637","Gratzke","C","C",3,"Germany",140,3,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"638","Ben-Zvi","Tal","T",1,"Canada",139,4,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"639","Hueber","Pierre-Alain","PA",2,"Canada",139,9,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"640","Abdollah","Firas","F",3,"Canada",139,1,"GreenLight",NA,NA,NA,NA,NA,NA,"F",5,NA,597,3,"Prostate"
+"641","Abdollah","Firas","F",3,"Canada",139,1,"GreenLight",NA,NA,NA,NA,NA,NA,"F",8,NA,88,3,"Prostate"
+"642","Liberman","Daniel","D",4,"Canada",139,5,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"643","Bhojani","Naeem","N",5,"Canada",139,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"644","Gautam","Gagan","G",6,"Canada",139,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"645","Zorn","Kevin C","KC",7,"Canada",139,12,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"646","Xue","Boxin","B",1,"Netherlands",138,10,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"647","Zang","Yachen","Y",2,"Netherlands",138,7,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"648","Zhang","Yuanyuan","Y",3,"Netherlands",138,9,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"649","Yang","Dongrong","D",4,"Netherlands",138,16,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"650","Gao","Jie","J",5,"Netherlands",138,5,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"651","Sun","Chuanyang","C",6,"Netherlands",138,7,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"652","Cui","Yong","Y",7,"Netherlands",138,3,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"653","Zhu","Jin","J",8,"Netherlands",138,3,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"654","Liu","Xiaolong","X",9,"Netherlands",138,10,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"655","Shan","Yuxi","Y",10,"Netherlands",138,8,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"656","Morton","J","J",1,"England",137,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"657","Karoonuthaisiri","N","N",2,"England",137,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"658","Stewart","L D","LD",3,"England",137,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"659","Oplatowska","M","M",4,"England",137,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"660","Elliott","C T","CT",5,"England",137,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"661","Grant","I R","IR",6,"England",137,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"662","Kaplan","Steven A","SA",1,"United States",136,7,"GreenLight","SA",1,"United States",593,4,"Laser","SA",1,"United States",419,5,"Prostate"
+"663","Kaplan","Steven A","SA",1,"United States",136,7,"GreenLight","SA",1,"United States",593,4,"Laser","SA",1,"United States",166,5,"Prostate"
+"664","Kwon","Ohseong","O",1,"Korea (South)",135,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"665","Park","Sohyun","S",2,"Korea (South)",135,5,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"666","Jeong","Min Young","MY",3,"Korea (South)",135,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"667","Cho","Sung Yong","SY",4,"Korea (South)",135,13,"GreenLight",NA,NA,NA,NA,NA,NA,"SY",1,"Korea (South)",607,5,"Prostate"
+"668","Son","Hwancheol","H",5,"Korea (South)",135,4,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"669","Brunken","Claus","C",1,"England",134,4,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"670","Munsch","Maximilian","M",2,"England",134,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"671","Tauber","Stephan","S",3,"England",134,3,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"672","Schmidt","Rainer","R",4,"England",134,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"673","Seitz","Christian","C",5,"England",134,7,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"674","Harriman","David","D",1,"Canada",133,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"675","Mayson","Brian E","BE",2,"Canada",133,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"676","Leone","Ercole F","EF",3,"Canada",133,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"677","Tao","Wei","W",1,"Netherlands",132,3,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"678","Yang","Dongrong","D",2,"Netherlands",132,16,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"679","Shan","Yuxi","Y",3,"Netherlands",132,8,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"680","Xue","Boxin","B",4,"Netherlands",132,10,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"681","Sun","Chuanyang","C",5,"Netherlands",132,7,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"682","Zang","Yangchen","Y",6,"Netherlands",132,7,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"683","Zhang","Yuanyuan","Y",7,"Netherlands",132,9,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"684","Kumar","Anup","A",1,"United States",131,5,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"685","Vasudeva","Pawan","P",2,"United States",131,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"686","Kumar","Niraj","N",3,"United States",131,5,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"687","Nanda","Biswajit","B",4,"United States",131,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"688","Jha","Sanjeev K","SK",5,"United States",131,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"689","Mohanty","Nayhan","N",6,"United States",131,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"690","Fernandes","Richard","R",1,"United States",130,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"691","Carey","Conn","C",2,"United States",130,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"692","Hynes","James","J",3,"United States",130,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"693","Papkovsky","Dmitri","D",4,"United States",130,3,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"694","Herlemann","Annika","A",1,"Switzerland",129,1,"GreenLight",NA,NA,NA,NA,NA,NA,"A",7,NA,82,1,"Prostate"
+"695","Strittmatter","Frank","F",2,"Switzerland",129,1,"GreenLight",NA,NA,NA,NA,NA,NA,"F",6,NA,82,1,"Prostate"
+"696","Buchner","Alexander","A",3,"Switzerland",129,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"697","Karl","Alexander","A",4,"Switzerland",129,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"698","Reich","Oliver","O",5,"Switzerland",129,8,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"699","Bachmann","Alexander","A",6,"Switzerland",129,26,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"700","Stief","Christian G","CG",7,"Switzerland",129,1,"GreenLight",NA,NA,NA,NA,NA,NA,"CG",11,NA,82,1,"Prostate"
+"701","Gratzke","Christian","C",8,"Switzerland",129,3,"GreenLight",NA,NA,NA,NA,NA,NA,"C",2,NA,82,1,"Prostate"
+"702","No","David","D",1,"United States",128,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"703","Osterberg","E Charles","EC",2,"United States",128,4,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"704","Otto","Brandon","B",3,"United States",128,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"705","Naftali","Izolda","I",4,"United States",128,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"706","Choi","Benjamin","B",5,"United States",128,17,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"707","Bruyère","Franck","F",1,"United States",127,15,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"708","Bodin","Thomas","T",2,"United States",127,4,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"709","Bleuzen","Aurore","A",3,"United States",127,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"710","Patat","Fredèric","F",4,"United States",127,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"711","Brunereau","Laurent","L",5,"United States",127,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"712","Elshal","Ahmed M","AM",1,"United States",126,5,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"713","Elkoushy","Mohamed A","MA",2,"United States",126,7,"GreenLight",NA,NA,NA,NA,NA,NA,"MA",3,"Netherlands",820,1,"Prostate"
+"714","Elmansy","Hazem M","HM",3,"United States",126,4,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"715","Sampalis","John","J",4,"United States",126,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"716","Elhilali","Mostafa M","MM",5,"United States",126,10,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"717","Osterberg","E Charles","EC",1,"United States",125,4,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"718","No","David","D",2,"United States",125,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"719","Otto","Brandon J","BJ",3,"United States",125,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"720","Naftali","Izolda","I",4,"United States",125,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"721","Choi","Benjamin B","BB",5,"United States",125,17,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"722","Kathpalia","Rohit","R",1,"United States",124,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"723","Goel","Apul","A",2,"United States",124,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"724","Sankhwar","S N","SN",3,"United States",124,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"725","Holovko","S V","SV",1,"Ukraine",123,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"726","Emara","Amr M","AM",1,"United States",122,3,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"727","Barber","Neil J","NJ",2,"United States",122,11,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"728","Misrai","V","V",1,"France",121,8,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"729","Faron","M","M",2,"France",121,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"730","Elman","B","B",3,"France",121,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"731","Bordier","B","B",4,"France",121,3,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"732","Portalez","D","D",5,"France",121,1,"GreenLight",NA,NA,NA,NA,NA,NA,"D",5,"France",656,1,"Prostate"
+"733","Guillotreau","J","J",6,"France",121,3,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"734","Hueber","Pierre-Alain","PA",1,"Canada",120,9,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"735","Zorn","Kevin C","KC",2,"Canada",120,12,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"736","Misraï","Vincent","V",1,"Germany",119,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"737","Faron","Matthieu","M",2,"Germany",119,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"738","Guillotreau","Julien","J",3,"Germany",119,3,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"739","Bruguière","Eric","E",4,"Germany",119,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"740","Bordier","Benoit","B",5,"Germany",119,3,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"741","Shariat","Shahrokh F","SF",6,"Germany",119,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"742","Rouprêt","Morgan","M",7,"Germany",119,4,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"743","Li","Zhaoyi","Z",1,"Netherlands",118,4,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"744","Hou","Ruipeng","R",2,"Netherlands",118,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"745","Li","Jian","J",3,"Netherlands",118,4,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"746","Kelly","Michael","M",1,"England",117,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"747","Humphrey","Charlotte","C",2,"England",117,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"748","Lebdai","Souhil","S",1,"United States",116,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"749","Prezelin","Yohann","Y",2,"United States",116,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"750","Pereira","Helder","H",3,"United States",116,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"751","Bruyere","Franck","F",4,"United States",116,3,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"752","Hueber","Pierre-Alain","PA",1,"United States",115,9,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"753","Liberman","Daniel","D",2,"United States",115,5,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"754","Ben-Zvi","Tal","T",3,"United States",115,4,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"755","Woo","Henry","H",4,"United States",115,7,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"756","Hai","Mahmood A","MA",5,"United States",115,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"757","Te","Alexis E","AE",6,"United States",115,11,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"758","Chughtai","Bilal","B",7,"United States",115,7,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"759","Lee","Richard","R",8,"United States",115,19,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"760","Rutman","Matthew","M",9,"United States",115,5,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"761","Gonzalez","Ricardo R","RR",10,"United States",115,5,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"762","Barber","Neil","N",11,"United States",115,11,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"763","Al-Hathal","Naif","N",12,"United States",115,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"764","Al-Qaoud","Talal","T",13,"United States",115,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"765","Trinh","Quoc-Dien","QD",14,"United States",115,3,"GreenLight",NA,NA,NA,NA,NA,NA,"QD",12,NA,944,4,"Prostate"
+"766","Trinh","Quoc-Dien","QD",14,"United States",115,3,"GreenLight",NA,NA,NA,NA,NA,NA,"QD",1,NA,902,4,"Prostate"
+"767","Trinh","Quoc-Dien","QD",14,"United States",115,3,"GreenLight",NA,NA,NA,NA,NA,NA,"QD",8,NA,273,4,"Prostate"
+"768","Trinh","Quoc-Dien","QD",14,"United States",115,3,"GreenLight",NA,NA,NA,NA,NA,NA,"QD",6,NA,88,4,"Prostate"
+"769","Zorn","Kevin C","KC",15,"United States",115,12,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"770","Müller","Georg","G",1,"United States",114,7,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"771","Bachmann","Alexander","A",2,"United States",114,26,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"772","Wyler","Stephen F","SF",3,"United States",114,6,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"773","Benejam-Gual","J M","JM",1,"Spain",113,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"774","Sanz-Granda","A","A",2,"Spain",113,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"775","García-Miralles Grávalos","R","R",3,"Spain",113,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"776","Severa-Ruíz de Velasco","A","A",4,"Spain",113,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"777","Pons-Viver","J","J",5,"Spain",113,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"778","Whelan","J Paul","JP",1,"Canada",112,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"779","Bowen","James M","JM",2,"Canada",112,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"780","Burke","Natasha","N",3,"Canada",112,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"781","Woods","Edward A","EA",4,"Canada",112,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"782","McIssac","Gary P","GP",5,"Canada",112,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"783","Hopkins","Robert B","RB",6,"Canada",112,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"784","O'Reilly","Daria J","DJ",7,"Canada",112,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"785","Xie","Feng","F",8,"Canada",112,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"786","Sehatzadeh","Shayan","S",9,"Canada",112,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"787","Levin","Leslie","L",10,"Canada",112,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"788","Mathew","Suja P","SP",11,"Canada",112,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"789","Patterson","Lisa L","LL",12,"Canada",112,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"790","Goeree","Ron","R",13,"Canada",112,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"791","Tarride","Jean-Eric","JE",14,"Canada",112,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"792","Mamoulakis","Charalampos","C",1,"Switzerland",111,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"793","Bachmann","Alexander","A",1,"Switzerland",110,26,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"794","Tubaro","Andrea","A",2,"Switzerland",110,4,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"795","Barber","Neil","N",3,"Switzerland",110,11,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"796","d'Ancona","Frank","F",4,"Switzerland",110,4,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"797","Muir","Gordon","G",5,"Switzerland",110,13,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"798","Witzsch","Ulrich","U",6,"Switzerland",110,3,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"799","Grimm","Marc-Oliver","MO",7,"Switzerland",110,3,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"800","Benejam","Joan","J",8,"Switzerland",110,3,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"801","Stolzenburg","Jens-Uwe","JU",9,"Switzerland",110,3,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"802","Riddick","Antony","A",10,"Switzerland",110,3,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"803","Pahernik","Sascha","S",11,"Switzerland",110,5,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"804","Roelink","Herman","H",12,"Switzerland",110,3,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"805","Ameye","Filip","F",13,"Switzerland",110,3,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"806","Saussine","Christian","C",14,"Switzerland",110,3,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"807","Bruyère","Franck","F",15,"Switzerland",110,15,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"808","Loidl","Wolfgang","W",16,"Switzerland",110,3,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"809","Larner","Tim","T",17,"Switzerland",110,3,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"810","Gogoi","Nirjan-Kumar","NK",18,"Switzerland",110,3,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"811","Hindley","Richard","R",19,"Switzerland",110,4,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"812","Muschter","Rolf","R",20,"Switzerland",110,3,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"813","Thorpe","Andrew","A",21,"Switzerland",110,3,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"814","Shrotri","Nitin","N",22,"Switzerland",110,3,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"815","Graham","Stuart","S",23,"Switzerland",110,3,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"816","Hamann","Moritz","M",24,"Switzerland",110,3,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"817","Miller","Kurt","K",25,"Switzerland",110,3,"GreenLight",NA,NA,NA,NA,NA,NA,"K",7,NA,248,6,"Prostate"
+"818","Miller","Kurt","K",25,"Switzerland",110,3,"GreenLight",NA,NA,NA,NA,NA,NA,"K",3,NA,179,6,"Prostate"
+"819","Schostak","Martin","M",26,"Switzerland",110,3,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"820","Capitán","Carlos","C",27,"Switzerland",110,6,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"821","Knispel","Helmut","H",28,"Switzerland",110,3,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"822","Thomas","J Andrew","JA",29,"Switzerland",110,5,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"823","Benejam-Gual","J M","JM",1,"Spain",109,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"824","Sanz-Granda","A","A",2,"Spain",109,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"825","Budía","A","A",3,"Spain",109,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"826","Extramiana","J","J",4,"Spain",109,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"827","Capitán","C","C",5,"Spain",109,6,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"828","Yin","H Shonna","HS",1,"United States",108,8,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"829","Sanders","Lee M","LM",2,"United States",108,8,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"830","Rothman","Russell L","RL",3,"United States",108,8,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"831","Shustak","Rachel","R",4,"United States",108,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"832","Eden","Svetlana K","SK",5,"United States",108,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"833","Shintani","Ayumi","A",6,"United States",108,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"834","Cerra","Maria E","ME",7,"United States",108,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"835","Cruzatte","Evelyn F","EF",8,"United States",108,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"836","Perrin","Eliana M","EM",9,"United States",108,8,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"837","Jovanovic","M","M",1,"Serbia",107,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"838","Džamic","Z","Z",2,"Serbia",107,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"839","Acimovic","M","M",3,"Serbia",107,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"840","Kajmakovic","B","B",4,"Serbia",107,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"841","Pejcic","T","T",5,"Serbia",107,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"842","Bachmann","Alexander","A",1,"Switzerland",106,26,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"843","Thomas","J Andrew","JA",2,"Switzerland",106,5,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"844","Choi","Yong Sun","YS",1,"Korea (South)",105,17,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"845","Bae","Woong Jin","WJ",2,"Korea (South)",105,8,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"846","Kim","Su Jin","SJ",3,"Korea (South)",105,26,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"847","Kim","Kang Sup","KS",4,"Korea (South)",105,26,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"848","Cho","Hyuk Jin","HJ",5,"Korea (South)",105,13,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"849","Hong","Sung-Hoo","SH",6,"Korea (South)",105,11,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"850","Lee","Ji Youl","JY",7,"Korea (South)",105,19,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"851","Hwang","Tae-Kon","TK",8,"Korea (South)",105,6,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"852","Kim","Sae Woong","SW",9,"Korea (South)",105,26,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"853","Cakiroglu","Basri","B",1,"Pakistan",104,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"854","Gözüküçük","Ramazan","R",2,"Pakistan",104,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"855","Sinanoglu","Orhun","O",3,"Pakistan",104,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"856","Vinceneux","F-X","FX",1,"France",103,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"857","Tanchoux","C","C",2,"France",103,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"858","Latteux","G","G",3,"France",103,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"859","Galliot","I","I",4,"France",103,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"860","Bruyère","F","F",5,"France",103,15,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"861","Khan","Raheej","R",1,"United Kingdom",102,3,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"862","Aydin","Abdullatif","A",2,"United Kingdom",102,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"863","Khan","Muhammad Shamim","MS",3,"United Kingdom",102,3,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"864","Dasgupta","Prokar","P",4,"United Kingdom",102,2,"GreenLight",NA,NA,NA,NA,NA,NA,"P",1,"England",983,3,"Prostate"
+"865","Dasgupta","Prokar","P",4,"United Kingdom",102,2,"GreenLight",NA,NA,NA,NA,NA,NA,"P",9,"England",980,3,"Prostate"
+"866","Ahmed","Kamran","K",5,"United Kingdom",102,3,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"867","Rieken","Malte","M",1,"England",101,10,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"868","Bachmann","Alexander","A",2,"England",101,26,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"869","Perrin","Eliana M","EM",1,"United States",100,8,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"870","Rothman","Russell L","RL",2,"United States",100,8,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"871","Sanders","Lee M","LM",3,"United States",100,8,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"872","Skinner","Asheley C","AC",4,"United States",100,4,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"873","Eden","Svetlana K","SK",5,"United States",100,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"874","Shintani","Ayumi","A",6,"United States",100,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"875","Throop","Elizabeth M","EM",7,"United States",100,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"876","Yin","H Shonna","HS",8,"United States",100,8,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"877","Broggi","E","E",1,"Switzerland",99,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"878","May","A","A",2,"Switzerland",99,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"879","Giretti","G","G",3,"Switzerland",99,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"880","Tabchouri","N","N",4,"Switzerland",99,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"881","Lorphelin","H","H",5,"Switzerland",99,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"882","Brichart","N","N",6,"Switzerland",99,6,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"883","Bruyère","F","F",7,"Switzerland",99,15,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"884","Choo","Min Soo","MS",1,"United States",98,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"885","Cho","Sung Yong","SY",2,"United States",98,13,"GreenLight",NA,NA,NA,NA,NA,NA,"SY",1,"Korea (South)",607,5,"Prostate"
+"886","Han","Jun Hyun","JH",3,"United States",98,3,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"887","Lee","Seong Ho","SH",4,"United States",98,19,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"888","Paick","Jae-Seung","JS",5,"United States",98,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"889","Son","Hwancheol","H",6,"United States",98,4,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"890","Thiruchelvam","Nikesh","N",1,"India",97,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"891","Deroee","A F","AF",1,"Italy",96,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"892","Cohen","B J","BJ",2,"Italy",96,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"893","O'Hara","J F","JF",3,"Italy",96,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"894","Sanders","Lee M","LM",1,"United States",95,8,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"895","Perrin","Eliana M","EM",2,"United States",95,8,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"896","Yin","H Shonna","HS",3,"United States",95,8,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"897","Bronaugh","Andrea","A",4,"United States",95,3,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"898","Rothman","Russell L","RL",5,"United States",95,8,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"899","Raimbault","M","M",1,"France",94,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"900","Watt","S","S",2,"France",94,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"901","Bourgoin","H","H",3,"France",94,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"902","Brichart","N","N",4,"France",94,6,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"903","Bruyère","F","F",5,"France",94,15,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"904","Gomez Sancha","Fernando","F",1,"Germany",93,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"905","Rivera","Vanesa Cuadros","VC",2,"Germany",93,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"906","Georgiev","Georgi","G",3,"Germany",93,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"907","Botsevski","Alexander","A",4,"Germany",93,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"908","Kotsev","Julian","J",5,"Germany",93,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"909","Herrmann","Thomas","T",6,"Germany",93,3,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"910","Aydin","Abdullatif","A",1,"England",92,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"911","Muir","Gordon H","GH",2,"England",92,13,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"912","Graziano","Manuela E","ME",3,"England",92,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"913","Khan","Muhammad Shamim","MS",4,"England",92,3,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"914","Dasgupta","Prokar","P",5,"England",92,2,"GreenLight",NA,NA,NA,NA,NA,NA,"P",1,"England",983,3,"Prostate"
+"915","Dasgupta","Prokar","P",5,"England",92,2,"GreenLight",NA,NA,NA,NA,NA,NA,"P",9,"England",980,3,"Prostate"
+"916","Ahmed","Kamran","K",6,"England",92,3,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"917","Cornu","Jean-Nicolas","JN",1,"Switzerland",91,8,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"918","Ahyai","Sascha","S",2,"Switzerland",91,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"919","Bachmann","Alexander","A",3,"Switzerland",91,26,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"920","de la Rosette","Jean","J",4,"Switzerland",91,4,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"921","Gilling","Peter","P",5,"Switzerland",91,3,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"922","Gratzke","Christian","C",6,"Switzerland",91,3,"GreenLight",NA,NA,NA,NA,NA,NA,"C",2,NA,82,1,"Prostate"
+"923","McVary","Kevin","K",7,"Switzerland",91,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"924","Novara","Giacomo","G",8,"Switzerland",91,1,"GreenLight",NA,NA,NA,NA,NA,NA,"G",4,NA,793,2,"Prostate"
+"925","Novara","Giacomo","G",8,"Switzerland",91,1,"GreenLight",NA,NA,NA,NA,NA,NA,"G",21,NA,229,2,"Prostate"
+"926","Woo","Henry","H",9,"Switzerland",91,7,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"927","Madersbacher","Stephan","S",10,"Switzerland",91,3,"GreenLight",NA,NA,NA,NA,NA,NA,"S",3,NA,427,1,"Prostate"
+"928","Batura","D","D",1,"England",90,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"929","Sahibzada","I","I",2,"England",90,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"930","Elkabir","J","J",3,"England",90,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"931","Feyisetan","O","O",4,"England",90,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"932","Izegbu","V","V",5,"England",90,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"933","Hellawell","G","G",6,"England",90,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"934","Webster","J","J",7,"England",90,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"935","Alesawi","Anwar M","AM",1,"United States",89,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"936","El-Hakim","Assaad","A",2,"United States",89,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"937","Zorn","Kevin C","KC",3,"United States",89,12,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"938","Saad","Fred","F",4,"United States",89,1,"GreenLight",NA,NA,NA,NA,NA,NA,"F",9,NA,583,1,"Prostate"
+"939","Ouyang","Yun","Y",1,"United States",88,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"940","Liu","Cuilong","C",2,"United States",88,10,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"941","Guan","Weimin","W",3,"United States",88,3,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"942","Zhao","Yubo","Y",4,"United States",88,4,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"943","Xu","Yansheng","Y",5,"United States",88,4,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"944","Wu","Yiguang","Y",6,"United States",88,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"945","Hermanns","Thomas","T",1,"United States",87,3,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"946","Grossmann","Nico C","NC",2,"United States",87,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"947","Wettstein","Marian S","MS",3,"United States",87,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"948","Fankhauser","Christian D","CD",4,"United States",87,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"949","Capol","Janine C","JC",5,"United States",87,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"950","Poyet","Cédric","C",6,"United States",87,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"951","Hefermehl","Lukas J","LJ",7,"United States",87,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"952","Zimmermann","Matthias","M",8,"United States",87,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"953","Sulser","Tullio","T",9,"United States",87,4,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"954","Müller","Alexander","A",10,"United States",87,7,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"955","Robert","Grégoire","G",1,"Germany",86,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"956","de la Taille","Alexandre","A",2,"Germany",86,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"957","Herrmann","Thomas","T",3,"Germany",86,3,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"958","Peyronnet","Benoit","B",1,"United States",85,5,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"959","Pradere","Benjamin","B",2,"United States",85,3,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"960","Brichart","Nicolas","N",3,"United States",85,6,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"961","Bodin","Thomas","T",4,"United States",85,4,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"962","Bertrand","Philippe","P",5,"United States",85,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"963","Bruyère","Franck","F",6,"United States",85,15,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"964","Atassi","A","A",7,"United States",85,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"965","Benmeziani","R","R",8,"United States",85,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"966","Bodin","T","T",9,"United States",85,4,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"967","Breque","M","M",10,"United States",85,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"968","Brichart","N","N",11,"United States",85,6,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"969","Bron","J","J",12,"United States",85,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"970","Bruyere","F","F",13,"United States",85,3,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"971","Cloche","P","P",14,"United States",85,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"972","Corbel","L","L",15,"United States",85,4,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"973","Cormier","L","L",16,"United States",85,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"974","Cuvelier","G","G",17,"United States",85,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"975","Delporte","G","G",18,"United States",85,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"976","Fennouri","M","M",19,"United States",85,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"977","Ferhi","K","K",20,"United States",85,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"978","Fournier","G","G",21,"United States",85,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"979","Gabbay","G","G",22,"United States",85,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"980","Hurtes","X","X",23,"United States",85,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"981","Laplace","B","B",24,"United States",85,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"982","Le Gal","S","S",25,"United States",85,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"983","Lecouteux","A","A",26,"United States",85,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"984","Lesur","G","G",27,"United States",85,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"985","Lokmane","M","M",28,"United States",85,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"986","Mathieu","R","R",29,"United States",85,3,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"987","Metois","P","P",30,"United States",85,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"988","Miaadi","N","N",31,"United States",85,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"989","Misrai","V","V",32,"United States",85,8,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"990","Moreau","J L","JL",33,"United States",85,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"991","Mouly","P","P",34,"United States",85,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"992","Muyshondt","C","C",35,"United States",85,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"993","Obringer","L","L",36,"United States",85,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"994","Perrouin-Verbe","M A","MA",37,"United States",85,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"995","Peyronnet","B","B",38,"United States",85,5,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"996","Pradere","B","B",39,"United States",85,3,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"997","Prezelin","Y","Y",40,"United States",85,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"998","Rigaud","P","P",41,"United States",85,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"999","Salin","A","A",42,"United States",85,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1000","Tabchouri","N","N",43,"United States",85,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1001","Tanchoux","C","C",44,"United States",85,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1002","Theveniaud","P","P",45,"United States",85,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1003","Thoulouzan","M","M",46,"United States",85,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1004","Thuillier","C","C",47,"United States",85,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1005","Verhoest","G","G",48,"United States",85,3,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1006","Bachmann","Alexander","A",1,"United States",84,26,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1007","Tubaro","Andrea","A",2,"United States",84,4,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1008","Barber","Neil","N",3,"United States",84,11,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1009","d'Ancona","Frank","F",4,"United States",84,4,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1010","Muir","Gordon","G",5,"United States",84,13,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1011","Witzsch","Ulrich","U",6,"United States",84,3,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1012","Grimm","Marc-Oliver","MO",7,"United States",84,3,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1013","Benejam","Joan","J",8,"United States",84,3,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1014","Stolzenburg","Jens-Uwe","JU",9,"United States",84,3,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1015","Riddick","Antony","A",10,"United States",84,3,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1016","Pahernik","Sascha","S",11,"United States",84,5,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1017","Roelink","Herman","H",12,"United States",84,3,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1018","Ameye","Filip","F",13,"United States",84,3,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1019","Saussine","Christian","C",14,"United States",84,3,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1020","Bruyère","Franck","F",15,"United States",84,15,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1021","Loidl","Wolfgang","W",16,"United States",84,3,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1022","Larner","Tim","T",17,"United States",84,3,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1023","Gogoi","Nirjan-Kumar","NK",18,"United States",84,3,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1024","Hindley","Richard","R",19,"United States",84,4,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1025","Muschter","Rolf","R",20,"United States",84,3,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1026","Thorpe","Andrew","A",21,"United States",84,3,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1027","Shrotri","Nitin","N",22,"United States",84,3,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1028","Graham","Stuart","S",23,"United States",84,3,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1029","Hamann","Moritz","M",24,"United States",84,3,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1030","Miller","Kurt","K",25,"United States",84,3,"GreenLight",NA,NA,NA,NA,NA,NA,"K",7,NA,248,6,"Prostate"
+"1031","Miller","Kurt","K",25,"United States",84,3,"GreenLight",NA,NA,NA,NA,NA,NA,"K",3,NA,179,6,"Prostate"
+"1032","Schostak","Martin","M",26,"United States",84,3,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1033","Capitán","Carlos","C",27,"United States",84,6,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1034","Knispel","Helmut","H",28,"United States",84,3,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1035","Thomas","J Andrew","JA",29,"United States",84,5,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1036","Corbel","L","L",1,"France",83,4,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1037","Della Negra","E","E",2,"France",83,3,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1038","Berquet","G","G",3,"France",83,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1039","Codet","Y P","YP",4,"France",83,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1040","Boulière","F","F",5,"France",83,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1041","Braguet","R","R",6,"France",83,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1042","Trifard","F","F",7,"France",83,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1043","Elshal","Ahmed M","AM",1,"United States",82,5,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1044","Elkoushy","Mohamed A","MA",2,"United States",82,7,"GreenLight",NA,NA,NA,NA,NA,NA,"MA",3,"Netherlands",820,1,"Prostate"
+"1045","El-Nahas","Ahmed R","AR",3,"United States",82,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1046","Shoma","Ahmed M","AM",4,"United States",82,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1047","Nabeeh","Adel","A",5,"United States",82,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1048","Carrier","Serge","S",6,"United States",82,3,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1049","Elhilali","Mostafa M","MM",7,"United States",82,10,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1050","Altay","Bulent","B",1,"England",81,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1051","Erkurt","Bulent","B",2,"England",81,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1052","Kiremit","Murat Can","MC",3,"England",81,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1053","Guzelburc","Vahit","V",4,"England",81,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1054","Boz","Mustafa Yucel","MY",5,"England",81,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1055","Albayrak","Selami","S",6,"England",81,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1056","Liu","Ling","L",1,"China",80,10,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1057","Lei","Jun-Hao","JH",2,"China",80,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1058","He","Qi-Ying","QY",3,"China",80,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1059","Li","Xiang","X",4,"China",80,4,"GreenLight","X",6,"United States",122,101,"Laser",NA,NA,NA,NA,NA,NA
+"1060","Yang","Lu","L",5,"China",80,16,"GreenLight",NA,NA,NA,NA,NA,NA,"L",6,"England",308,31,"Prostate"
+"1061","Wiedemann","A","A",1,"Germany",79,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1062","Maykan","R","R",2,"Germany",79,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1063","Pennekamp","J","J",3,"Germany",79,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1064","Hirsch","J","J",4,"Germany",79,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1065","Heppner","H","H",5,"Germany",79,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1066","Guo","Sanwei","S",1,"United States",78,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1067","Müller","Georg","G",2,"United States",78,7,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1068","Bonkat","Gernot","G",3,"United States",78,5,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1069","Püschel","Heike","H",4,"United States",78,3,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1070","Gasser","Thomas","T",5,"United States",78,6,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1071","Bachmann","Alexander","A",6,"United States",78,26,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1072","Rieken","Malte","M",7,"United States",78,10,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1073","Brunken","Claus","C",1,"England",77,4,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1074","Seitz","Christian","C",2,"England",77,7,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1075","Woo","Henry H","HH",3,"England",77,7,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1076","Netsch","Christopher","C",1,"United States",76,3,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1077","Bach","Thorsten","T",2,"United States",76,3,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1078","Kan","Chi Fai","CF",1,"United States",75,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1079","Chan","Alexander Chak Lam","AC",2,"United States",75,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1080","Pun","Chung Ting","CT",3,"United States",75,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1081","Ho","Lap Yin","LY",4,"United States",75,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1082","Chan","Steve Wai-Hee","SW",5,"United States",75,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1083","Au","Wing Hang","WH",6,"United States",75,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1084","Rieken","Malte","M",1,"Germany",74,10,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1085","Bachmann","Alexander","A",2,"Germany",74,26,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1086","Gomez-Sancha","Fernando","F",1,"United States",73,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1087","Fardoun","T","T",1,"France",72,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1088","Mathieu","R","R",2,"France",72,3,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1089","Vincendeau","S","S",3,"France",72,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1090","Della Negra","E","E",4,"France",72,3,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1091","Corbel","L","L",5,"France",72,4,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1092","Couapel","J P","JP",6,"France",72,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1093","Manunta","A","A",7,"France",72,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1094","Bensalah","K","K",8,"France",72,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1095","Verhoest","G","G",9,"France",72,3,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1096","Peyronnet","Benoit","B",1,"Switzerland",71,5,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1097","Cornu","Jean-Nicolas","JN",2,"Switzerland",71,8,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1098","Rouprêt","Morgan","M",3,"Switzerland",71,4,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1099","Bruyere","Franck","F",4,"Switzerland",71,3,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1100","Misrai","Vincent","V",5,"Switzerland",71,8,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1101","Telli","Onur","O",1,"England",70,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1102","Okutucu","Tolga Muharrem","TM",2,"England",70,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1103","Suer","Evren","E",3,"England",70,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1104","Burgu","Berk","B",4,"England",70,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1105","Gulpinar","Omer","O",5,"England",70,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1106","Yaman","Onder","O",6,"England",70,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1107","Bozkurt","Selen","S",7,"England",70,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1108","Castellan","Pietro","P",1,"Germany",69,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1109","Castellucci","Roberto","R",2,"Germany",69,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1110","Schips","Luigi","L",3,"Germany",69,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1111","Cindolo","Luca","L",4,"Germany",69,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1112","Guo","Sanwei","S",1,"England",68,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1113","Müller","Georg","G",2,"England",68,7,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1114","Lehmann","Kurt","K",3,"England",68,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1115","Talimi","Scherwin","S",4,"England",68,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1116","Bonkat","Gernot","G",5,"England",68,5,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1117","Püschel","Heike","H",6,"England",68,3,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1118","Gasser","Thomas","T",7,"England",68,6,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1119","Bachmann","Alexander","A",8,"England",68,26,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1120","Rieken","Malte","M",9,"England",68,10,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1121","Altay","Bulent","B",1,"Switzerland",67,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1122","Erkurt","Bulent","B",2,"Switzerland",67,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1123","Kiremit","Murat Can","MC",3,"Switzerland",67,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1124","Horuz","Rahim","R",4,"Switzerland",67,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1125","Guzelburc","Vahit","V",5,"Switzerland",67,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1126","Albayrak","Selami","S",6,"Switzerland",67,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1127","Eken","Alper","A",1,"Canada",66,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1128","Soyupak","Bulent","B",2,"Canada",66,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1129","Acil","Meltem","M",3,"Canada",66,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1130","Arpaci","Taner","T",4,"Canada",66,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1131","Akbas","Tugana","T",5,"Canada",66,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1132","Noureldin","Yasser A","YA",1,"Canada",65,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1133","Elkoushy","Mohamed A","MA",2,"Canada",65,7,"GreenLight",NA,NA,NA,NA,NA,NA,"MA",3,"Netherlands",820,1,"Prostate"
+"1134","Fahmy","Nader","N",3,"Canada",65,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1135","Carrier","Serge","S",4,"Canada",65,3,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1136","Elhilali","Mostafa M","MM",5,"Canada",65,10,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1137","Andonian","Sero","S",6,"Canada",65,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1138","Tietze","Stefan","S",1,"Switzerland",64,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1139","Kiehle","Beatrix","B",2,"Switzerland",64,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1140","Krause","Jens","J",3,"Switzerland",64,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1141","Behrendt","Wolf","W",4,"Switzerland",64,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1142","Hamza","Amir","A",5,"Switzerland",64,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1143","Yang","Teng-Kai","TK",1,"China (Republic : 1949- )",63,16,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1144","Hsiao","Po-Jen","PJ",2,"China (Republic : 1949- )",63,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1145","Yang","Hung-Ju","HJ",3,"China (Republic : 1949- )",63,16,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1146","Liao","Chun-Hou","CH",4,"China (Republic : 1949- )",63,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1147","Chiang","Han-Sun","HS",5,"China (Republic : 1949- )",63,3,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1148","Chien","Kuo-Liong","KL",6,"China (Republic : 1949- )",63,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1149","Kim","Kang Sup","KS",1,"England",62,26,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1150","Choi","Sae Woong","SW",2,"England",62,17,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1151","Bae","Woong Jin","WJ",3,"England",62,8,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1152","Kim","Su Jin","SJ",4,"England",62,26,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1153","Cho","Hyuk Jin","HJ",5,"England",62,13,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1154","Hong","Sung-Hoo","SH",6,"England",62,11,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1155","Lee","Ji Youl","JY",7,"England",62,19,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1156","Hwang","Tae-Kon","TK",8,"England",62,6,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1157","Kim","Sae Woong","SW",9,"England",62,26,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1158","Bachmann","Alexander","A",1,"Switzerland",61,26,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1159","Rieken","Malte","M",2,"Switzerland",61,10,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1160","Hueber","Pierre-Alain","PA",1,"United States",60,9,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1161","Bienz","Marc Nicolas","MN",2,"United States",60,1,"GreenLight",NA,NA,NA,NA,NA,NA,"MN",7,NA,583,1,"Prostate"
+"1162","Valdivieso","Roger","R",3,"United States",60,4,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1163","Lavigueur-Blouin","Hugo","H",4,"United States",60,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1164","Misrai","Vincent","V",5,"United States",60,8,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1165","Rutman","Matthew","M",6,"United States",60,5,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1166","Te","Alexis E","AE",7,"United States",60,11,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1167","Chughtai","Bilal","B",8,"United States",60,7,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1168","Barber","Neil J","NJ",9,"United States",60,11,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1169","Emara","Amr M","AM",10,"United States",60,3,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1170","Munver","Ravi","R",11,"United States",60,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1171","Trinh","Quoc-Dien","QD",12,"United States",60,3,"GreenLight",NA,NA,NA,NA,NA,NA,"QD",12,NA,944,4,"Prostate"
+"1172","Trinh","Quoc-Dien","QD",12,"United States",60,3,"GreenLight",NA,NA,NA,NA,NA,NA,"QD",1,NA,902,4,"Prostate"
+"1173","Trinh","Quoc-Dien","QD",12,"United States",60,3,"GreenLight",NA,NA,NA,NA,NA,NA,"QD",8,NA,273,4,"Prostate"
+"1174","Trinh","Quoc-Dien","QD",12,"United States",60,3,"GreenLight",NA,NA,NA,NA,NA,NA,"QD",6,NA,88,4,"Prostate"
+"1175","Zorn","Kevin C","KC",13,"United States",60,12,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1176","Lee","Alexander","A",1,"United States",59,19,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1177","Vazquez","Rafael","R",2,"United States",59,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1178","Elkoushy","Mohamed A","MA",1,"United States",58,7,"GreenLight",NA,NA,NA,NA,NA,NA,"MA",3,"Netherlands",820,1,"Prostate"
+"1179","Elshal","Ahmed M","AM",2,"United States",58,5,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1180","Elhilali","Mostafa M","MM",3,"United States",58,10,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1181","Berquet","Gaetan","G",1,"United States",57,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1182","Corbel","Luc","L",2,"United States",57,4,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1183","Della Negra","Emmanuel","E",3,"United States",57,3,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1184","Huet","Romain","R",4,"United States",57,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1185","Trifard","François","F",5,"United States",57,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1186","Codet","Yann","Y",6,"United States",57,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1187","Boulière","Fabien","F",7,"United States",57,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1188","Verhoest","Grégory","G",8,"United States",57,3,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1189","Vincendeau","Sébastien","S",9,"United States",57,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1190","Bensalah","Karim","K",10,"United States",57,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1191","Mathieu","Romain","R",11,"United States",57,3,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1192","Husillos-Alonso","Adrián","A",1,"Spain",56,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1193","Simón-Rodríguez","Carlos","C",2,"Spain",56,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1194","Bolufer-Moragues","Eduardo","E",3,"Spain",56,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1195","López-Martín","Leticia","L",4,"Spain",56,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1196","Carbonero-García","Manuel","M",5,"Spain",56,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1197","González-Enguita","Carmen","C",6,"Spain",56,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1198","Liu","Cuilong","C",1,"United States",55,10,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1199","Chen","Weihao","W",2,"United States",55,10,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1200","Xie","Changliang","C",3,"United States",55,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1201","Guan","Weimin","W",4,"United States",55,3,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1202","Zhao","Yubo","Y",5,"United States",55,4,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1203","Ouyang","Yun","Y",6,"United States",55,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1204","Xu","Yansheng","Y",7,"United States",55,4,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1205","Wu","Yiguang","Y",8,"United States",55,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1206","Wang","Xiyou","X",9,"United States",55,7,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1207","Wang","Yi","Y",10,"United States",55,7,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1208","Zhang","Xinyu","X",11,"United States",55,9,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1209","Elterman","Dean S","DS",1,"Canada",54,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1210","Cakiroglu","Basri","B",1,"Italy",53,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1211","Sinanoglu","Orhun","O",2,"Italy",53,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1212","Dogan","Akif Nuri","AN",3,"Italy",53,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1213","Marra","Giancarlo","G",1,"Australia",52,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1214","Sturch","Paul","P",2,"Australia",52,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1215","Oderda","Marco","M",3,"Australia",52,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1216","Tabatabaei","Shahin","S",4,"Australia",52,3,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1217","Muir","Gordon","G",5,"Australia",52,13,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1218","Gontero","Paolo","P",6,"Australia",52,1,"GreenLight",NA,NA,NA,NA,NA,NA,"P",11,NA,229,1,"Prostate"
+"1219","Kaplan","Steven A","SA",1,"United States",51,7,"GreenLight","SA",1,"United States",593,4,"Laser","SA",1,"United States",419,5,"Prostate"
+"1220","Kaplan","Steven A","SA",1,"United States",51,7,"GreenLight","SA",1,"United States",593,4,"Laser","SA",1,"United States",166,5,"Prostate"
+"1221","Martinez","Daniel Roberto","DR",1,"Brazil",50,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1222","Ercole","Cesar E","CE",2,"Brazil",50,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1223","Lopez","Juan Gabriel","JG",3,"Brazil",50,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1224","Parker","Justin","J",4,"Brazil",50,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1225","Hall","Mary K","MK",5,"Brazil",50,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1226","Zorn","Kevin C","KC",1,"United States",49,12,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1227","Hueber","Pierre Alain","PA",2,"United States",49,9,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1228","Gonzalez","Ricardo R","RR",3,"United States",49,5,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1229","Thomas","James A","JA",1,"Switzerland",48,5,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1230","Tubaro","Andrea","A",2,"Switzerland",48,4,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1231","Barber","Neil","N",3,"Switzerland",48,11,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1232","d'Ancona","Frank","F",4,"Switzerland",48,4,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1233","Muir","Gordon","G",5,"Switzerland",48,13,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1234","Witzsch","Ulrich","U",6,"Switzerland",48,3,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1235","Grimm","Marc-Oliver","MO",7,"Switzerland",48,3,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1236","Benejam","Joan","J",8,"Switzerland",48,3,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1237","Stolzenburg","Jens-Uwe","JU",9,"Switzerland",48,3,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1238","Riddick","Antony","A",10,"Switzerland",48,3,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1239","Pahernik","Sascha","S",11,"Switzerland",48,5,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1240","Roelink","Herman","H",12,"Switzerland",48,3,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1241","Ameye","Filip","F",13,"Switzerland",48,3,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1242","Saussine","Christian","C",14,"Switzerland",48,3,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1243","Bruyère","Franck","F",15,"Switzerland",48,15,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1244","Loidl","Wolfgang","W",16,"Switzerland",48,3,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1245","Larner","Tim","T",17,"Switzerland",48,3,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1246","Gogoi","Nirjan-Kumar","NK",18,"Switzerland",48,3,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1247","Hindley","Richard","R",19,"Switzerland",48,4,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1248","Muschter","Rolf","R",20,"Switzerland",48,3,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1249","Thorpe","Andrew","A",21,"Switzerland",48,3,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1250","Shrotri","Nitin","N",22,"Switzerland",48,3,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1251","Graham","Stuart","S",23,"Switzerland",48,3,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1252","Hamann","Moritz","M",24,"Switzerland",48,3,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1253","Miller","Kurt","K",25,"Switzerland",48,3,"GreenLight",NA,NA,NA,NA,NA,NA,"K",7,NA,248,6,"Prostate"
+"1254","Miller","Kurt","K",25,"Switzerland",48,3,"GreenLight",NA,NA,NA,NA,NA,NA,"K",3,NA,179,6,"Prostate"
+"1255","Schostak","Martin","M",26,"Switzerland",48,3,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1256","Capitán","Carlos","C",27,"Switzerland",48,6,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1257","Knispel","Helmut","H",28,"Switzerland",48,3,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1258","Bachmann","Alexander","A",29,"Switzerland",48,26,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1259","de la Rosette","Jean","J",1,"Australia",47,4,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1260","Elhilali","Mostafa","M",2,"Australia",47,10,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1261","Naito","Seiji","S",3,"Australia",47,1,"GreenLight",NA,NA,NA,NA,NA,NA,"S",11,NA,623,1,"Prostate"
+"1262","Unal","Dogan","D",4,"Australia",47,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1263","Razvi","Hassan","H",5,"Australia",47,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1264","Liatsikos","Evangelos","E",6,"Australia",47,3,"GreenLight",NA,NA,NA,NA,NA,NA,"E",5,NA,565,1,"Prostate"
+"1265","Bachmann","Alexander","A",7,"Australia",47,26,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1266","Tubaro","Andrea","A",8,"Australia",47,4,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1267","Alivizatos","Gerasimos","G",9,"Australia",47,3,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1268","Mak","Siu King","SK",10,"Australia",47,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1269","Badlani","Gopal","G",11,"Australia",47,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1270","Eltahawy","Ehab","E",12,"Australia",47,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1271","Wong","Carson","C",13,"Australia",47,9,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1272","Telich Vidal","Martin","M",14,"Australia",47,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1273","Te","Alexis","A",15,"Australia",47,11,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1274","d'Ancona","Frank","F",16,"Australia",47,4,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1275","Arum","Carl-Jørgen","CJ",17,"Australia",47,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1276","Gutierrez","Jorge","J",18,"Australia",47,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1277","López","B","B",1,"Spain",46,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1278","Capitán","C","C",2,"Spain",46,6,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1279","Hernández","V","V",3,"Spain",46,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1280","de la Peña","E","E",4,"Spain",46,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1281","Jiménez-Valladolid","I","I",5,"Spain",46,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1282","Guijarro","A","A",6,"Spain",46,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1283","Pérez-Fernández","E","E",7,"Spain",46,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1284","Llorente","C","C",8,"Spain",46,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1285","Fang","Kun","K",1,"China",45,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1286","Yang","Bo","B",2,"China",45,16,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1287","Qu","Rui","R",3,"China",45,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1288","Dong","Qiang","Q",4,"China",45,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1289","Ding","Mao","M",1,"China",44,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1290","Nian","Ye-qi","YQ",2,"China",44,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1291","Hu","Shan-biao","SB",3,"China",44,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1292","Yi","Lu","L",4,"China",44,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1293","Chen","Fang-zhi","FZ",5,"China",44,10,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1294","Peng","Mou","M",6,"China",44,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1295","Wang","Yin-huai","YH",7,"China",44,7,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1296","Cornu","Jean-Nicolas","JN",1,"Switzerland",43,8,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1297","Madersbacher","Stephan","S",2,"Switzerland",43,3,"GreenLight",NA,NA,NA,NA,NA,NA,"S",3,NA,427,1,"Prostate"
+"1298","Thomas","James Andrew","JA",1,"Switzerland",42,5,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1299","Bachmann","Alexander","A",2,"Switzerland",42,26,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1300","Large","Tim","T",1,"United States",41,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1301","Borofsky","Michael S","MS",2,"United States",41,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1302","Lingeman","James E","JE",3,"United States",41,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1303","Misrai","Vincent","V",1,"United States",40,8,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1304","Kerever","Sebastien","S",2,"United States",40,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1305","Phe","Veronique","V",3,"United States",40,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1306","Zorn","Kevin C","KC",4,"United States",40,12,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1307","Peyronnet","Benoit","B",5,"United States",40,5,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1308","Rouprêt","Morgan","M",6,"United States",40,4,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1309","Tholomier","Côme","C",1,"Canada",39,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1310","Valdivieso","Roger","R",2,"Canada",39,4,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1311","Hueber","Pierre-Alain","PA",3,"Canada",39,9,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1312","Zorn","Kevin C","KC",4,"Canada",39,12,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1313","Lerner","Lori B","LB",1,"Canada",38,1,"GreenLight",NA,NA,NA,NA,NA,NA,"LB",3,"Canada",839,2,"Prostate"
+"1314","Rajender","Archana","A",2,"Canada",38,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1315","Wood","Charles T","CT",1,"United States",37,3,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1316","Skinner","Asheley C","AC",2,"United States",37,4,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1317","Yin","H Shonna","HS",3,"United States",37,8,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1318","Rothman","Russell L","RL",4,"United States",37,8,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1319","Sanders","Lee M","LM",5,"United States",37,8,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1320","Delamater","Alan","A",6,"United States",37,4,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1321","Ravanbakht","Sophie N","SN",7,"United States",37,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1322","Perrin","Eliana M","EM",8,"United States",37,8,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1323","Sivarajan","Ganesh","G",1,"United States",36,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1324","Borofsky","Michael S","MS",2,"United States",36,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1325","Shah","Ojas","O",3,"United States",36,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1326","Lingeman","James E","JE",4,"United States",36,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1327","Lepor","Herbert","H",5,"United States",36,1,"GreenLight","H",4,NA,608,1,"Laser","H",10,NA,718,5,"Prostate"
+"1328","Lepor","Herbert","H",5,"United States",36,1,"GreenLight","H",4,NA,608,1,"Laser","H",6,NA,589,5,"Prostate"
+"1329","Lepor","Herbert","H",5,"United States",36,1,"GreenLight","H",4,NA,608,1,"Laser","H",4,NA,437,5,"Prostate"
+"1330","Lepor","Herbert","H",5,"United States",36,1,"GreenLight","H",4,NA,608,1,"Laser","H",6,NA,305,5,"Prostate"
+"1331","Lepor","Herbert","H",5,"United States",36,1,"GreenLight","H",4,NA,608,1,"Laser","H",6,NA,273,5,"Prostate"
+"1332","Hamid","D","D",1,"France",35,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1333","Casnedi","S","S",2,"France",35,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1334","Whelan","Lucy","L",1,"United States",34,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1335","Mullarkey","Emma","E",2,"United States",34,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1336","Woo","Henry H","HH",3,"United States",34,7,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1337","Audouin","M","M",1,"France",33,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1338","Benbouzid","S","S",2,"France",33,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1339","Terrasa","J B","JB",3,"France",33,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1340","Proietti","S","S",4,"France",33,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1341","Cussenot","O","O",5,"France",33,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1342","Lukacs","B","B",6,"France",33,3,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1343","Cornu","J N","JN",7,"France",33,8,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1344","Stone","Benjamin V","BV",1,"United States",32,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1345","Chughtai","Bilal","B",2,"United States",32,7,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1346","Kaplan","Steven A","SA",3,"United States",32,7,"GreenLight","SA",1,"United States",593,4,"Laser","SA",1,"United States",419,5,"Prostate"
+"1347","Kaplan","Steven A","SA",3,"United States",32,7,"GreenLight","SA",1,"United States",593,4,"Laser","SA",1,"United States",166,5,"Prostate"
+"1348","Te","Alexis E","AE",4,"United States",32,11,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1349","Lee","Richard K","RK",5,"United States",32,19,"GreenLight","RK",5,NA,858,43,"Laser",NA,NA,NA,NA,NA,NA
+"1350","Zang","Ya-Chen","YC",1,"England",31,7,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1351","Deng","Xin-Xi","XX",2,"England",31,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1352","Yang","Dong-Rong","DR",3,"England",31,16,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1353","Xue","Bo-Xin","BX",4,"England",31,10,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1354","Xu","Li-Jun","LJ",5,"England",31,4,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1355","Liu","Xiao-Long","XL",6,"England",31,10,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1356","Zhou","Yi-Bin","YB",7,"England",31,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1357","Shan","Yu-Xi","YX",8,"England",31,8,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1358","Wettstein","Marian S","MS",1,"Germany",30,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1359","Poyet","Cédric","C",2,"Germany",30,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1360","Grossmann","Nico C","NC",3,"Germany",30,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1361","Fankhauser","Christian D","CD",4,"Germany",30,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1362","Keller","Etienne X","EX",5,"Germany",30,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1363","Kozomara","Marko","M",6,"Germany",30,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1364","Meyer","Salome","S",7,"Germany",30,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1365","Sulser","Tullio","T",8,"Germany",30,4,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1366","Müller","Alexander","A",9,"Germany",30,7,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1367","Hermanns","Thomas","T",10,"Germany",30,3,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1368","Bao","Ji-Ming","JM",1,"Netherlands",29,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1369","Tan","Wan-Long","WL",2,"Netherlands",29,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1370","Wang","Bing-Wei","BW",3,"Netherlands",29,7,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1371","Qiu","Xiao-Fu","XF",4,"Netherlands",29,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1372","Liu","Bai-Chuan","BC",5,"Netherlands",29,10,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1373","Zhong","Rui-Lun","RL",6,"Netherlands",29,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1374","Li","Gao-Yuan","GY",7,"Netherlands",29,4,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1375","Yang","Guo-Sheng","GS",8,"Netherlands",29,16,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1376","Wiwanitkit","V","V",1,"France",28,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1377","Netsch","Christopher","C",1,"Germany",27,3,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1378","Moritz","Christina","C",2,"Germany",27,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1379","Gross","Andreas J","AJ",3,"Germany",27,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1380","Lee","Daniel J","DJ",1,"United States",26,19,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1381","Rieken","Malte","M",2,"United States",26,10,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1382","Halpern","Joshua","J",3,"United States",26,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1383","Zhao","Fujun","F",4,"United States",26,4,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1384","Pueschel","Heike","H",5,"United States",26,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1385","Chughtai","Bilal","B",6,"United States",26,7,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1386","Kaplan","Steven A","SA",7,"United States",26,7,"GreenLight","SA",1,"United States",593,4,"Laser","SA",1,"United States",419,5,"Prostate"
+"1387","Kaplan","Steven A","SA",7,"United States",26,7,"GreenLight","SA",1,"United States",593,4,"Laser","SA",1,"United States",166,5,"Prostate"
+"1388","Lee","Richard K","RK",8,"United States",26,19,"GreenLight","RK",5,NA,858,43,"Laser",NA,NA,NA,NA,NA,NA
+"1389","Bachmann","Alexander","A",9,"United States",26,26,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1390","Te","Alexis E","AE",10,"United States",26,11,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1391","Hsu","Yu-Chao","YC",1,"United States",25,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1392","Lin","Yu-Hsiang","YH",2,"United States",25,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1393","Chou","Chih-Yuan","CY",3,"United States",25,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1394","Hou","Chen-Pang","CP",4,"United States",25,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1395","Chen","Chien-Lun","CL",5,"United States",25,10,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1396","Chang","Phei-Lang","PL",6,"United States",25,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1397","Tsui","Ke-Hung","KH",7,"United States",25,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1398","Zhou","Yan","Y",1,"England",24,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1399","Xue","Boxin","B",2,"England",24,10,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1400","Mohammad","Nadeem Ahmed","NA",3,"England",24,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1401","Chen","Dong","D",4,"England",24,10,"GreenLight",NA,NA,NA,NA,NA,NA,"D",6,NA,228,61,"Prostate"
+"1402","Sun","Xiaofei","X",5,"England",24,7,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1403","Yang","Jinhui","J",6,"England",24,16,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1404","Dai","Guangcheng","G",7,"England",24,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1405","Wood","Charles T","CT",1,"United States",23,3,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1406","Perreira","Krista M","KM",2,"United States",23,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1407","Perrin","Eliana M","EM",3,"United States",23,8,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1408","Yin","H Shonna","HS",4,"United States",23,8,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1409","Rothman","Russell L","RL",5,"United States",23,8,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1410","Sanders","Lee M","LM",6,"United States",23,8,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1411","Delamater","Alan M","AM",7,"United States",23,4,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1412","Bentley","Margaret E","ME",8,"United States",23,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1413","Bronaugh","Andrea B","AB",9,"United States",23,3,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1414","Thompson","Amanda L","AL",10,"United States",23,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1415","Pradere","B","B",1,"France",22,3,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1416","Peyronnet","B","B",2,"France",22,5,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1417","Leonard","G","G",3,"France",22,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1418","Misrai","V","V",4,"France",22,8,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1419","Bruyère","F","F",5,"France",22,15,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1420","Kim","Kang Sup","KS",1,"United States",21,26,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1421","Choi","Jin Bong","JB",2,"United States",21,17,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1422","Bae","Woong Jin","WJ",3,"United States",21,8,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1423","Kim","Su Jin","SJ",4,"United States",21,26,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1424","Cho","Hyuk Jin","HJ",5,"United States",21,13,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1425","Hong","Sung-Hoo","SH",6,"United States",21,11,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1426","Lee","Ji Youl","JY",7,"United States",21,19,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1427","Kim","Sae Woong","SW",8,"United States",21,26,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1428","Han","Dong-Seok","DS",9,"United States",21,3,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1429","Valdivieso","Roger","R",1,"England",20,4,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1430","Meyer","Christian P","CP",2,"England",20,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1431","Hueber","Pierre-Alain","PA",3,"England",20,9,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1432","Meskawi","Malek","M",4,"England",20,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1433","Alenizi","Abdullah M","AM",5,"England",20,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1434","Azizi","Mounsif","M",6,"England",20,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1435","Trinh","Quoc-Dien","QD",7,"England",20,3,"GreenLight",NA,NA,NA,NA,NA,NA,"QD",12,NA,944,4,"Prostate"
+"1436","Trinh","Quoc-Dien","QD",7,"England",20,3,"GreenLight",NA,NA,NA,NA,NA,NA,"QD",1,NA,902,4,"Prostate"
+"1437","Trinh","Quoc-Dien","QD",7,"England",20,3,"GreenLight",NA,NA,NA,NA,NA,NA,"QD",8,NA,273,4,"Prostate"
+"1438","Trinh","Quoc-Dien","QD",7,"England",20,3,"GreenLight",NA,NA,NA,NA,NA,NA,"QD",6,NA,88,4,"Prostate"
+"1439","Misrai","Vincent","V",8,"England",20,8,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1440","Rutman","Matthew","M",9,"England",20,5,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1441","Te","Alexis E","AE",10,"England",20,11,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1442","Chughtai","Bilal","B",11,"England",20,7,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1443","Barber","Neil J","NJ",12,"England",20,11,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1444","Emara","Amr M","AM",13,"England",20,3,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1445","Munver","Ravi","R",14,"England",20,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1446","Zorn","Kevin C","KC",15,"England",20,12,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1447","Charbonneau","H","H",1,"France",19,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1448","Pathak","A","A",2,"France",19,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1449","Albenque","J-P","JP",3,"France",19,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1450","Misrai","V","V",4,"France",19,8,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1451","Brown","Callie L","CL",1,"United States",18,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1452","Skinner","Asheley C","AC",2,"United States",18,4,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1453","Yin","H Shonna","HS",3,"United States",18,8,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1454","Rothman","Russell L","RL",4,"United States",18,8,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1455","Sanders","Lee M","LM",5,"United States",18,8,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1456","Delamater","Alan M","AM",6,"United States",18,4,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1457","Ravanbakht","Sophie N","SN",7,"United States",18,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1458","Perrin","Eliana M","EM",8,"United States",18,8,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1459","Nair","Shiva Madhwan","SM",1,"United States",17,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1460","Pimentel","Marie Adrianne","MA",2,"United States",17,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1461","Gilling","Peter John","PJ",3,"United States",17,3,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1462","Popeneciu","Ionel Valentin","IV",1,"England",16,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1463","Hatiboglu","Gencay","G",2,"England",16,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1464","Kuru","Timur Hassan","TH",3,"England",16,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1465","Milakovic","Sandra","S",4,"England",16,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1466","Freier","Gerald","G",5,"England",16,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1467","Hadaschik","Boris","B",6,"England",16,1,"GreenLight",NA,NA,NA,NA,NA,NA,"B",1,NA,780,2,"Prostate"
+"1468","Hohenfellner","Markus","M",7,"England",16,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1469","Pahernik","Sascha","S",8,"England",16,5,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1470","Baron","M","M",1,NA,15,2,"GreenLight","M",1,"France",365,2,"Laser","M",1,"France",282,1,"Prostate"
+"1471","Grynberg","L","L",2,NA,15,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1472","Hourie","A","A",3,NA,15,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1473","Delcourt","C","C",4,NA,15,1,"GreenLight","C",3,"France",365,1,"Laser","C",3,"France",282,1,"Prostate"
+"1474","Nouhaud","F-X","FX",5,NA,15,1,"GreenLight","FX",2,"France",365,1,"Laser","FX",2,"France",282,1,"Prostate"
+"1475","Cornu","J-N","JN",6,NA,15,8,"GreenLight","JN",6,"France",365,1,"Laser","JN",6,"France",282,1,"Prostate"
+"1476","Grise","P","P",7,NA,15,1,"GreenLight","P",4,"France",365,1,"Laser","P",4,"France",282,1,"Prostate"
+"1477","Fligou","Fotini","F",1,"India",14,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1478","Kallidonis","Panagiotis","P",2,"India",14,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1479","Flaris","Nicolaos","N",3,"India",14,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1480","Al-Aown","Abdulrahman","A",4,"India",14,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1481","Kyriazis","Iason","I",5,"India",14,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1482","Vasilas","Marinos","M",6,"India",14,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1483","Panagopoulos","Vasilis","V",7,"India",14,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1484","Perimenis","Petros","P",8,"India",14,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1485","Liatsikos","Evangelos","E",9,"India",14,3,"GreenLight",NA,NA,NA,NA,NA,NA,"E",5,NA,565,1,"Prostate"
+"1486","Vrettos","Theofanis","T",10,"India",14,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1487","Noureldin","Yasser A","YA",1,"United States",13,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1488","Elkoushy","Mohamed A","MA",2,"United States",13,7,"GreenLight",NA,NA,NA,NA,NA,NA,"MA",3,"Netherlands",820,1,"Prostate"
+"1489","Aloosh","Mehdi","M",3,"United States",13,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1490","Carrier","Serge","S",4,"United States",13,3,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1491","Elhilali","Mostafa M","MM",5,"United States",13,10,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1492","Andonian","Sero","S",6,"United States",13,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1493","Stone","Benjamin V","BV",1,"United States",12,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1494","Chughtai","Bilal","B",2,"United States",12,7,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1495","Forde","James C","JC",3,"United States",12,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1496","Tam","Andrew W","AW",4,"United States",12,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1497","Lewicki","Patrick","P",5,"United States",12,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1498","Te","Alexis E","AE",6,"United States",12,11,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1499","Kim","Kang Sup","KS",1,"United States",11,26,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1500","Choi","Jin Bong","JB",2,"United States",11,17,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1501","Bae","Woong Jin","WJ",3,"United States",11,8,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1502","Kim","Su Jin","SJ",4,"United States",11,26,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1503","Cho","Hyuk Jin","HJ",5,"United States",11,13,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1504","Hong","Sung-Hoo","SH",6,"United States",11,11,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1505","Lee","Ji Youl","JY",7,"United States",11,19,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1506","Kim","Sang Hoon","SH",8,"United States",11,26,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1507","Kim","Hyun Woo","HW",9,"United States",11,26,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1508","Cho","Su Yeon","SY",10,"United States",11,13,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1509","Kim","Sae Woong","SW",11,"United States",11,26,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1510","Bach","Thorsten","T",1,NA,10,3,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1511","Wölbling","Felix","F",2,NA,10,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1512","Gross","Andreas J","AJ",3,NA,10,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1513","Netsch","C","C",4,NA,10,3,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1514","Tauber","S","S",5,NA,10,3,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1515","Pottek","Tobias","T",6,NA,10,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1516","Wülfing","Christian","C",7,NA,10,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1517","Brunken","Claus","C",8,NA,10,4,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1518","Wood","Charles T","CT",1,"United States",9,3,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1519","Skinner","Asheley C","AC",2,"United States",9,4,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1520","Yin","H Shonna","HS",3,"United States",9,8,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1521","Rothman","Russell L","RL",4,"United States",9,8,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1522","Sanders","Lee M","LM",5,"United States",9,8,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1523","Delamater","Alan M","AM",6,"United States",9,4,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1524","Perrin","Eliana M","EM",7,"United States",9,8,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1525","Heerman","William J","WJ",1,NA,8,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1526","Perrin","Eliana M","EM",2,NA,8,8,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1527","Sanders","Lee M","LM",3,NA,8,8,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1528","Yin","H Shonna","HS",4,NA,8,8,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1529","Coyne-Beasley","Tamera","T",5,NA,8,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1530","Bronaugh","Andrea B","AB",6,NA,8,3,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1531","Barkin","Shari L","SL",7,NA,8,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1532","Rothman","Russell L","RL",8,NA,8,8,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1533","Elhilali","Mostafa M","MM",1,"China",7,10,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1534","Elkoushy","Mohamed A","MA",2,"China",7,7,"GreenLight",NA,NA,NA,NA,NA,NA,"MA",3,"Netherlands",820,1,"Prostate"
+"1535","Hu","Bo","B",1,NA,6,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1536","Song","Zhenyu","Z",2,NA,6,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1537","Liu","Hui","H",3,NA,6,10,"GreenLight",NA,NA,NA,NA,NA,NA,"H",8,NA,239,49,"Prostate"
+"1538","Qiao","Liang","L",4,NA,6,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1539","Zhao","Yong","Y",5,NA,6,4,"GreenLight",NA,NA,NA,NA,NA,NA,"Y",4,"Greece",621,18,"Prostate"
+"1540","Wang","Muwen","M",6,NA,6,7,"GreenLight",NA,NA,NA,NA,NA,NA,"M",5,NA,496,106,"Prostate"
+"1541","Song","Wei","W",7,NA,6,2,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1542","Zhang","Dong","D",8,NA,6,9,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1543","Jin","Xunbo","X",9,NA,6,1,"GreenLight",NA,NA,NA,NA,NA,NA,"X",17,"England",559,10,"Prostate"
+"1544","Jin","Xunbo","X",9,NA,6,1,"GreenLight",NA,NA,NA,NA,NA,NA,"X",7,NA,496,10,"Prostate"
+"1545","Zhang","Haiyang","H",10,NA,6,9,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1546","Cornu","Jean-Nicolas","JN",1,"United States",5,8,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1547","Salameh","M","M",1,NA,4,1,"GreenLight","M",1,NA,885,1,"Laser","M",1,NA,657,1,"Prostate"
+"1548","Gerbaud","F","F",2,NA,4,1,"GreenLight","F",2,NA,885,1,"Laser","F",2,NA,657,1,"Prostate"
+"1549","Daché","A","A",3,NA,4,1,"GreenLight","A",3,NA,885,1,"Laser","A",3,NA,657,1,"Prostate"
+"1550","Hermieu","J-F","JF",4,NA,4,1,"GreenLight","JF",4,NA,885,1,"Laser","JF",4,NA,657,1,"Prostate"
+"1551","Dominique","S","S",5,NA,4,1,"GreenLight","S",5,NA,885,1,"Laser","S",5,NA,657,1,"Prostate"
+"1552","Hupertan","V","V",6,NA,4,1,"GreenLight","V",6,NA,885,1,"Laser","V",6,NA,657,1,"Prostate"
+"1553","Ravery","V","V",7,NA,4,1,"GreenLight","V",7,NA,885,1,"Laser","V",7,NA,657,1,"Prostate"
+"1554","Ouzaid","I","I",8,NA,4,1,"GreenLight","I",8,NA,885,1,"Laser","I",8,NA,657,1,"Prostate"
+"1555","Guan","Zheng","Z",1,"England",3,3,"GreenLight","Z",1,"England",803,1,"Laser","Z",1,"England",591,2,"Prostate"
+"1556","Liu","Jingjie","J",2,"England",3,10,"GreenLight","J",2,"England",803,86,"Laser","J",2,"England",591,49,"Prostate"
+"1557","Kaplan","Steven A","SA",1,"United States",2,7,"GreenLight","SA",1,"United States",593,4,"Laser","SA",1,"United States",419,5,"Prostate"
+"1558","Kaplan","Steven A","SA",1,"United States",2,7,"GreenLight","SA",1,"United States",593,4,"Laser","SA",1,"United States",166,5,"Prostate"
+"1559","Sweet","Robert M","RM",1,NA,1,1,"GreenLight",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
